@@ -9,7 +9,7 @@ published: true
 ---
 # Dicas básicas para usar o Google Scholar
 
-Estas são as dicas:
+Estas são as dicas: 
 
 ## Dica 1:
 
