@@ -1,0 +1,89 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+  
+# Plugins
+whitelist: []
+plugins:   []
+
+# Site settings
+title: "Douglas Donin"
+description: > # this means to ignore newlines until "email:"
+   Direito, Tecnologia e bem mais.
+
+email: douglasdnn@gmail.com
+#blog logo
+logo: "/assets/images/logo.jpg"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/399260.jpg"
+
+name: 'Douglas Donin'
+author: 'Douglas Donin'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "https://douglasdnn.github.io" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@douglasdnn'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+google_analytics: UA-175335316-1
+
+# social icons and sharing options
+social:
+  - icon:	graduation-cap
+    url:	http://lattes.cnpq.br/6951315863820106
+    desc: Lattes
+    share_url: 
+    share_title: 
+    share_link: 
+    
+  - icon:	graduation-cap
+    url:	https://scholar.google.com.br/citations?user=qaZeU_gAAAAJ
+    desc: Google Scholar
+    share_url: 
+    share_title: 
+    share_link: 
+
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/donin/
+    desc: LinkedIn
+    share_url: 
+    share_title: 
+    share_link: 
+
+  - icon:	twitter
+    url:	https://twitter.com/douglasdnn
+    desc: Twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook
+    url:	https://www.facebook.com/douglas.oliveira.donin
+    desc: Facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/douglasdnn
+    desc:	Github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link: 
+ 
