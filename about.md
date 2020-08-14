@@ -4,7 +4,7 @@ title: Sobre o autor
 permalink: /sobre/
 ---
 
-Douglas Oliveira Donin é Mestre em Direito, advogado, desenvolvedor de sistemas de informática e pesquisador na área de Direito da Tecnologia. 
+Douglas Oliveira Donin é Mestre em Direito, advogado, desenvolvedor de sistemas de informática e pesquisador na área de Direito da Tecnologia.
 
 # Formação: 
 
