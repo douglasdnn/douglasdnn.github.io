@@ -2,9 +2,6 @@
 plugins:
   - jemoji
   - jekyll-paginate
-  
-# Plugins
-whitelist: []
 
 # Site settings
 title: "Douglas Donin"
