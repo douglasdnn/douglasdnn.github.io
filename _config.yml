@@ -1,11 +1,10 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
   
 # Plugins
 whitelist: []
-plugins:   []
 
 # Site settings
 title: "Douglas Donin"
