@@ -30,11 +30,11 @@ Vamos exibir estes resultados no matplotlib:
     plt.plot(bins, 1/(desvio * np.sqrt(2 * np.pi)) * np.exp( - (bins - media)**2 / (2 * desvio**2) ), linewidth=2, color='r')
     plt.show()
   
-  Vejamos que a distribuição corresponde ao que queremos
+  Vejamos que a distribuição corresponde ao que queremos: uma distribuição normal, fortemente centrada nos valores 4, 5, e 6
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTQ4ODYwMl19
+eyJoaXN0b3J5IjpbOTk0MTI2MzI5XX0=
 -->
