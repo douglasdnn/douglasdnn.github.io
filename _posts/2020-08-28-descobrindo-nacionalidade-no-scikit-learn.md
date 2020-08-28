@@ -8,13 +8,14 @@ published: false
 	
 Primeiro, 
 
-Vamos importar três bibliotecas
+Vamos importar duas bibliotecas, 
 
-import numpy as np
+    import numpy as np
+    import matplotlib.pyplot as plt
+
+Além disso, vamos importar a função randint do pacote random do python, que não vem carregada por padrão:
+
 from random import randint
-import matplotlib.pyplot as plt
-
-
 
 media, desvio = 5, 1 # média e desvio padrão
 s = np.random.normal(media, desvio, 500)
@@ -27,6 +28,7 @@ Vamos exibir estes resultados no matplotlib:
 
 > Written with [StackEdit](https://stackedit.io/).
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjM0MDQ5OV19
+eyJoaXN0b3J5IjpbMTc2Mjk5ODEyN119
 -->
