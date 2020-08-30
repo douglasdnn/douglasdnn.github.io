@@ -2,7 +2,6 @@
 layout: post
 title:  "Descobrindo nacionalidades no Scikit-Learn, Parte 1"
 categories: machine learning
-image: "https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/01/11256_1CF540E9ECDD54CB.jpg"
 published: false
 ---
 Texto
@@ -36,5 +35,5 @@ Vamos exibir estes resultados no matplotlib:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0MTI2MzI5XX0=
+eyJoaXN0b3J5IjpbMTU2MjczMzE0NSw5OTQxMjYzMjldfQ==
 -->
