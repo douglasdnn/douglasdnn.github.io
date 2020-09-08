@@ -2,9 +2,11 @@
 
 *_Como a informação assimétrica pode levar à criação de mecanismos de seleção adversa? É possível destruir um mercado por deficiência de informação? Esconder informação sempre é um bom negócio para quem sabe mais?_*
 
-Imaginemos um mercado hipotético de carros usados. Sabemos que comprar um carro usado é algo complicado: o vendedor sempre garante que o carro é uma beleza, que a mecânica é uma maravilha, que o motor está tinindo, e que pechincha melhor não será encontrada. Vamos supor que, neste mercado, há um número igual de vendedores mentirosos e de vendedores sinceros (ou seja, a sua chance de encontrar qualquer um dos dois é a mesma).
+Imaginemos um mercado hipotético de carros usados. Sabemos que comprar um carro usado é algo complicado: o vendedor sempre garante que o carro é uma beleza, que a mecânica é uma maravilha, que o motor está tinindo, e que pechincha melhor não será encontrada. 
 
-E vamos supor, também, que você, o pobre comprador, seja um completo leigo em mecânica. Você pode avaliar externamente o carro, mas terá que confiar na palavra do vendedor no que diz respeito à mecânica.
+Vamos supor que, neste mercado, há um número igual de vendedores mentirosos e de vendedores sinceros (ou seja, a sua chance de encontrar qualquer um dos dois é a mesma).
+
+E vamos supor, também, que você, o pobre comprador, **seja um completo leigo em mecânica.** Você pode avaliar externamente o carro, mas terá que confiar na palavra do vendedor no que diz respeito à mecânica. Em termos econômicos, *há uma grande **assimetria de informação** entre você e o seu parceiro de negócio (que sabe mais do que você sobre a realidade do produto)*.
 
 Vamos ignorar por um momento a sua decisão (que é assunto para teoria dos jogos), e olhar a estrutura deste mercado – que, por si só, acarreta em uma série de interessantes consequências. É possível, de antemão, prever uma tendência auto-destrutiva deste mercado, gerada pela simples assimetria de informações (um dos lados possui muito mais informação do que o outro. No caso, o vendedor).
 
@@ -41,5 +43,5 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDk4MDM2Ml19
+eyJoaXN0b3J5IjpbLTE1ODgzNjg5OThdfQ==
 -->
