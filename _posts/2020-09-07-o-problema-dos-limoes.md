@@ -1,9 +1,8 @@
-
 ---
 layout: post
-title:  "100 mil mortos. Dá para se conectar com um número destes?"
-categories: cognicao
-image: "https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/01/11256_1CF540E9ECDD54CB.jpg"
+title:  "O Problema dos Limões"
+categories: economia
+image: "https://steemitimages.com/p/4PYjjVwJ1UdtK9g3KMeuiL3kBJmEdpdRwv2jeZoRxXzHtrrSfabPbdW8WwLRPzRbGYryY3u6B3gyS4an7oX4Br19Jq17LoykNWKN9RYvjHg?format=match&mode=fit&width=640"
 published: true
 ---
 
@@ -52,6 +51,6 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMzE4MDI5LDIzNzA4ODE3Miw0OTU4OT
-k0MjRdfQ==
+eyJoaXN0b3J5IjpbLTExNDY3ODE0MjgsNDEzMzE4MDI5LDIzNz
+A4ODE3Miw0OTU4OTk0MjRdfQ==
 -->
