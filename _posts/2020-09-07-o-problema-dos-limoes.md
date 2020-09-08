@@ -1,3 +1,12 @@
+
+---
+layout: post
+title:  "O Problema dos Limões"
+categories: economia
+image: "https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/01/11256_1CF540E9ECDD54CB.jpg"
+published: true
+---
+
 > _Nota: texto publicado originalmente no meu antigo site, douglasdnn.com: [https://web.archive.org/web/20160324110343/http://douglasdnn.com/o-problema-dos-limoes/](https://web.archive.org/web/20160324110343/http://douglasdnn.com/o-problema-dos-limoes/ "This link will take you away from steemit.com")_
 
 *_Como a informação assimétrica pode levar à criação de mecanismos de seleção adversa? É possível destruir um mercado por deficiência de informação? Esconder informação sempre é um bom negócio para quem sabe mais?_*
@@ -43,5 +52,6 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MDg4MTcyLDQ5NTg5OTQyNF19
+eyJoaXN0b3J5IjpbLTE0NTY3NzM4MDUsMjM3MDg4MTcyLDQ5NT
+g5OTQyNF19
 -->
