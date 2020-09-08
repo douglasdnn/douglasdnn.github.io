@@ -10,7 +10,7 @@ published: true
 
 *Como a informação assimétrica pode levar à criação de mecanismos de seleção adversa? É possível destruir um mercado por deficiência de informação? Esconder informação sempre é um bom negócio para quem sabe mais?*
 
-Imaginemos um mercado hipotético de carros usados. Sabemos que comprar um carro usado é algo complicado: o vendedor sempre garante que o carro é uma beleza, que a mecânica é uma maravilha, que o motor está tinindo, e que pechincha melhor não será encontrada. 
+Imaginemos um mercado hipotético de carros usados. Sabemos que comprar um carro usado é algo complicado: o vendedor sempre garante que o carro é uma beleza, que a mecânica é uma maravilha, que o motor está tinindo, e que pechincha melhor não será encontrada. O problema é que isso nem sempre é verdade.
 
 Vamos supor que, neste mercado, há um número igual de vendedores mentirosos e de vendedores sinceros (ou seja, a sua chance de encontrar qualquer um dos dois é a mesma).
 
@@ -57,5 +57,6 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3NDY1MDAzLC0xNjE4Mzk5ODMzXX0=
+eyJoaXN0b3J5IjpbODYzODUxOTYyLDU5NzQ2NTAwMywtMTYxOD
+M5OTgzM119
 -->
