@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "O Problema dos Limões"
@@ -52,6 +51,6 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODQ5MDcyMiwyMzcwODgxNzIsNDk1OD
-k5NDI0XX0=
+eyJoaXN0b3J5IjpbLTExNDY3ODE0MjgsMjM3MDg4MTcyLDQ5NT
+g5OTQyNF19
 -->
