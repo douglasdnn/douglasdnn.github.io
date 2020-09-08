@@ -12,7 +12,7 @@ published: true
 
 Imaginemos um mercado hipotético de carros usados. Sabemos que comprar um carro usado é algo complicado: o vendedor sempre garante que o carro é uma beleza, que a mecânica é uma maravilha, que o motor está tinindo, e que pechincha melhor não será encontrada. O problema é que isso nem sempre é verdade.
 
-Vamos supor que, neste mercado, há um número igual de vendedores mentirosos e de vendedores sinceros (ou seja, a sua chance de encontrar qualquer um dos dois é a mesma).
+Vamos supor que, neste mercado, há um número igual de vendedores mentirosos e de vendedores sinceros (ou seja, a sua chance de encontrar qualquer um dos dois é a mesma). Sabemos que no mundo real não é assim, mas vamos trabalhar com um cenário mais simples.
 
 E vamos supor, também, que você, o pobre comprador, **seja um completo leigo em mecânica.** Você pode avaliar externamente o carro, mas terá que confiar na palavra do vendedor no que diz respeito à mecânica. Em termos econômicos, *há uma grande **assimetria de informação** entre você e o seu parceiro de negócio (que sabe mais do que você sobre a realidade do produto)*.
 
@@ -57,6 +57,6 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzODUxOTYyLDU5NzQ2NTAwMywtMTYxOD
-M5OTgzM119
+eyJoaXN0b3J5IjpbLTEzMDMzMTY5MzIsNTk3NDY1MDAzLC0xNj
+E4Mzk5ODMzXX0=
 -->
