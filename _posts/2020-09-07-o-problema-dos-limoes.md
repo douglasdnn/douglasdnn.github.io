@@ -61,7 +61,7 @@ Um purista do livre-mercado (e há algumas correntes de pensamento na economia h
 
 A ação do Estado não é, por sua própria natureza, boa ou má. Nunca é muito claro se o Estado *deve* interferir em um certo mercado - quase sempre é uma decisão mais política do que técnica -  mas, se ele interferir, deve ser no sentido de **melhorar a estrutura do mercado**. Quando o Estado interfere na economia de modo a melhorar as interações entre os agentes econômicos, a permitir que transações mutualmente benéficas, potenciais, tenham seus obstáculos removidos para efetivamente se realizar, a sua ação foi benéfica. Quando ele age para colocar obstáculos, jogar areia nas engrenagens, teria sido melhor se omitir.
 
-Vimos no primeiro exemplo (o dos carros) que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele devesse interferir. Uma lei que garantisse aos compradores de carros ruins devolver os carros em até uma semana sem necessidade de maiores justificativas, caso estivessem insatisfeitos com o negócio, poderia desmotivar mentirosos a entrar no mercado, salvando-o da ruína.
+Vimos no primeiro exemplo (o dos carros) que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele *devesse* interferir. Por exemplo: uma lei que garantisse aos compradores de carros ruins devolver os carros em até uma semana sem necessidade de maiores justificativas, caso estivessem insatisfeitos com o negócio, poderia desmotivar mentirosos a entrar no mercado, salvando-o da ruína.
 
 Mas no segundo exemplo (dos seguros) vimos que foi exatamente a interferência desastrada, pouco hábil, que arruinou um mercado funcional.
 
@@ -69,6 +69,7 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc2NjUyODksLTc1ODA5NTQyNiwtMT
-MwMzMxNjkzMiw1OTc0NjUwMDMsLTE2MTgzOTk4MzNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjM3ODk1ODQsLTE2MDc2NjUyODksLT
+c1ODA5NTQyNiwtMTMwMzMxNjkzMiw1OTc0NjUwMDMsLTE2MTgz
+OTk4MzNdfQ==
 -->
