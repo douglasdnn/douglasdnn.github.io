@@ -11,8 +11,7 @@ De toda forma, a questão é interessante e polêmica. Por um lado, defensores d
 
 O fato - inegável, aliás - de que uma empresa é livre para ofertar o que bem entender no mercado de trabalho, desde que o objeto seja lícito, não se põe em discussão. E, de um ponto de vista econômico, principalmente amparado em princípios liberais, seria fácil expor um sólido caso de porque tal direito deve ser preservado. Irei, portanto, pelo lado oposto.
 
-O empregador naturalmente já possui maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita, ou de alguma forma pressionada. Ou seja, possui incentivos negativos para concordar com os termos apresentados. 
-O "peso negativo" desses incentivos seria descontado de um "preço de equilíbrio" na formação do preço da mão-de-obra.
+O empregador naturalmente já possui maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita, ou de alguma forma pressionada. Ou seja, possui incentivos negativos para concordar com os termos apresentados, mesmo que não sejam ideais. Isso é natural, e dado pela própria natureza do mercado de trabalho. É de se esperar que esse "peso negativo" dos incentivos, então, seja descontado de um "preço de equilíbrio" hipotético, supona formação do preço da mão-de-obra.
 
 A tática de manter uma assimetria de informação forçada, amparada pelas circunstâncias, a beneficiaria ainda mais, principalmente em momentos de crise ou em mercados saturados (e ainda mais quando os dois fatores são combinados). A tendência, então, é que  é sempre um "lance" abaixo do mercado, talvez até predatório, do candidato para garantir a vaga.
 
@@ -28,5 +27,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMwNTE0NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyODczNjAzMzJdfQ==
 -->
