@@ -56,15 +56,17 @@ Com mais clientes de alto consumo e menos de baixo, as finanças do plano se det
 
 Para contrabalancear, o plano aumenta o preço médio – **o que expulsa ainda mais clientes de baixo risco**. O que piora a terceira iteração, e assim sucessivamente, até a desintegração do mercado específico - quando não sobra mais clientes "superavitários" para manter os "deficitários". Agora é *cada um por si* - o pior para todo mundo.
 
-Entender a mecânica dos filtros de seleção adversa e como eles são gerados pela assimetria informacional ajuda a prever o resultado prático de legislações restritivas, o que será obtido de fato por regulamentações alegadamente samaritanas. Também ajuda a prever qual deve ser o papel da boa lei ou da boa intervenção judicial, para auxiliar no processo de mútua revelação de informações, diminuindo o custo de insegurança inerente a certos tipos de negociação, permitindo que surja bem-estar em situações que, se não fosse facilitada a troca informacional por um agente externo, seriam estéreis.
 
 Um purista do livre-mercado (e há algumas correntes de pensamento na economia heterodoxa que não reconhecem a existência de **falhas de mercado**, tema que é pacífico na economia científica, *manistream*) poderia, em uma leitura apressada do exemplo dos seguros, vaticinar: "basta então o Estado nunca se meter". Errado. A ação do Estado não é, por sua própria natureza, boa ou má. Nunca é muito claro se o Estado *deve* interferir em um certo mercado - quase sempre é uma decisão mais política do que técnica -  mas, se ele interferir, deve ser no sentido de **melhorar a estrutura do mercado**. 
 
-Vimos no primeiro exemplo que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele devesse. Uma lei que garantisse aos compradores de carros  devolver os carros em uma semana, sem necessidade de justificativas, caso estivessem insatisfeitos com o negócio, poderia desmotivar mentirosos a entrar no mercado.
+Vimos no primeiro exemplo (o dos carros) que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele devesse interferir. Uma lei que garantisse aos compradores de carros ruins devolver os carros em até uma semana sem necessidade de maiores justificativas, caso estivessem insatisfeitos com o negócio, poderia desmotivar mentirosos a entrar no mercado, salvando-o da ruína.
 
+Mas no segundo exemplo vimos que foi exatamente a interferência desastra
+
+Entender a mecânica dos filtros de seleção adversa e como eles são gerados pela assimetria informacional ajuda a prever o resultado prático de legislações restritivas, o que será obtido de fato por regulamentações alegadamente samaritanas. Também ajuda a prever qual deve ser o papel da boa lei ou da boa intervenção judicial, para auxiliar no processo de mútua revelação de informações, diminuindo o custo de insegurança inerente a certos tipos de negociação, permitindo que surja bem-estar em situações que, se não fosse facilitada a troca informacional por um agente externo, seriam estéreis.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjE1OTkxNywtMTMwMzMxNjkzMiw1OT
-c0NjUwMDMsLTE2MTgzOTk4MzNdfQ==
+eyJoaXN0b3J5IjpbNDk4NDY5MjgsLTEzMDMzMTY5MzIsNTk3ND
+Y1MDAzLC0xNjE4Mzk5ODMzXX0=
 -->
