@@ -27,7 +27,7 @@ Quando isso ocorre, temos aí um empregado desmotivado, pensando no curto prazo,
 
 O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportunidades que têm à mão, e preenchem suas necessidades em uma ordem onde a sobrevivência - comer, alimentar os filhos, pagar os boletos - claramente se impõe ao bom e transparente relacionamento com colegas, chefia e empresa.
 
-O segundo ponto é que este comportamento, impulsionado pela insatisfação, pode evoluir em direções bastante prejudiciais - e que facilmente 
+O segundo ponto é que este comportamento, impulsionado pela insatisfação, pode evoluir em direções bastante prejudiciais - e que facilmente podem impõem perdas bem superiores que o eventual "ganho" obti
 
   
 A receita ideal para perder colaboradores com potencial, um filtro de retenção de pessoas sem potencial.
@@ -36,5 +36,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTM4NTQ1NF19
+eyJoaXN0b3J5IjpbLTE2ODg2MDY4NzVdfQ==
 -->
