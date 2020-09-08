@@ -13,9 +13,9 @@ Do outro lado, candidatos reclamam de uma postura que não se alinha com uma bus
 
 Os dois lados possuem alguma razão. O fato - inegável, aliás - de que uma empresa é livre para ofertar o que bem entender no mercado de trabalho, desde que o objeto seja lícito, não se põe em discussão. E, de um ponto de vista econômico, principalmente amparado em princípios liberais, seria fácil expor um sólido caso de porque tal direito deve ser preservado. 
 
-Mas irei pelo lado oposto. Existem fortes motivos pragmátipara condenar o "salário: a combinar".
+Mas irei pelo lado oposto, e não pelo caminho da apreciação moral. Existem fortes motivos pragmáticos para condenar o polêmico, odiado, temido "salário: a combinar".
 
-O empregador naturalmente já possui maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita, ou de alguma forma pressionada. Ou seja, possui incentivos negativos para concordar com os termos apresentados, mesmo que não sejam ideais. Isso é natural, e dado pela própria natureza do mercado de trabalho. É de se esperar que esse "peso negativo" dos incentivos, então, seja descontado de um "preço de equilíbrio" hipotético (supondo igual poder na negociação) na formação do preço da mão-de-obra.
+O empregador naturalmente já possui maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita, ou de alguma forma pressionada. Ou seja, possui incentivos negativos para concordar com os termos apresentados, mesmo que não sejam ideais. Isso é natural, e dado pela própria natureza do mercado de trabalho. É de se esperar que esse "peso negativo" dos incentivos, então, seja descontado de um "preço de equilíbrio" hipotético (supondo igual poder na negociação) na formação do preço da mão-de-obra. Em um primeiro momento, o empregador poderia considerar que esta "bêncão" que a estrut
 
 Mas nem tudo são flores para o empregador. A tática de manter uma assimetria de informação forçada, amparada pelas circunstâncias, que a benefice ainda mais, principalmente em momentos de crise ou em mercados saturados (e ainda mais quando os dois fatores são combinados) cria uma tendência, tão mais forte quanto as circustâncias são desfavoráveis, é que se crie um forte "leilão de menor preço" - aqui é onde as coisas se complicam, e prova que a tática de operar com leilão reverso para explorar a vantagem não é tão sábia.
 
@@ -36,5 +36,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MTA3OTQyXX0=
+eyJoaXN0b3J5IjpbMTEwODkwMTE1N119
 -->
