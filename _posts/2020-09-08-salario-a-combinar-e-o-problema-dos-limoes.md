@@ -2,7 +2,7 @@
 layout: post
 title:  "O Problema do 'Salário a Combinar'"
 categories: economia
-image: "https://allauctionsales.com/auctionsblog/wp-content/uploads/2019/10/auction-property-market-715x400.png"
+image: "/assets/article_images/leilao.png"
 published: false
 ---
 Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego - é normal que reclamem de um certo sentimento de deslealdade, como se o empregador ou ofertante estivesse abusando de sua posição de *market maker*.
@@ -21,5 +21,6 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODY1ODEzLC0yMTM4NDk3NTcwXX0=
+eyJoaXN0b3J5IjpbLTEzMDM5NjgxOTYsMTQ1ODY1ODEzLC0yMT
+M4NDk3NTcwXX0=
 -->
