@@ -31,7 +31,7 @@ O segundo ponto é que este comportamento, impulsionado pela insatisfação, pod
 
 Os casos mais extremos envolvem a busca de poder de barganha para novos *rounds* de negociação salarial, com a criação de situações de dependência e indispensabilidade - como retenção de informações vitais, posicionamento deliberadamente estratégico em processos sensíveis ou mesmo criação artificial de passivos trabalhistas como valor de ameaça. De novo, um comportamento **esperado**, ainda mais se a mensagem passada sobre a relação da empresa com os seus subordinados não é de colaboração, mas conflituosa, onde vale explorar qualquer situação e utilizar qualquer arma.
 
-Em terceiro lugar, isso aumenta a rotatividade - um funcionário que aceita uma oferta de emprego pressionado por um leição a aceitar um salário abaixo do que normalmente aceitaria é, por natureza, temporário. 
+Em terceiro lugar, isso aumenta a rotatividade - um funcionário que aceita uma oferta de emprego pressionado por um leilão a aceitar um salário abaixo do que normalmente aceitaria é, por natureza, temporário. Isso impõe custos - como o custo de uma nova seleção, de um novo treinamento, e de reposição do conhecimento e ideias- e talvez contatos, colegas e clientes - que ele leva embora.
 
 Quarto, um leilão de salários é a receita ideal para perder colaboradores com maior potencial, se constituindo em um filtro de retenção de pessoas com menores ambições, menor motivação e menores capacidades. 
 
@@ -40,6 +40,6 @@ Quinto, a cada visualização de um claro leilão de salários, uma pessoa a mai
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUxMjY4MzAsLTIwODIwNTU5NDUsLT
-IwNTQ3MzA1NzJdfQ==
+eyJoaXN0b3J5IjpbLTQyNTk4MjI2NCwtMjA4MjA1NTk0NSwtMj
+A1NDczMDU3Ml19
 -->
