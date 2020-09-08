@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "O Problema dos Limões"
+title:  "O Problema do 'Salário a Combinar'"
 categories: economia
-image: "https://steemitimages.com/p/4PYjjVwJ1UdtK9g3KMeuiL3kBJmEdpdRwv2jeZoRxXzHtrrSfabPbdW8WwLRPzRbGYryY3u6B3gyS4an7oX4Br19Jq17LoykNWKN9RYvjHg?format=match&mode=fit&width=640"
+image: "https://allauctionsales.com/auctionsblog/wp-content/uploads/2019/10/auction-property-market-715x400.png"
 published: false
 ---
 Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego.
@@ -21,5 +21,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg0OTc1NzBdfQ==
+eyJoaXN0b3J5IjpbMTEyODUzMDUyLC0yMTM4NDk3NTcwXX0=
 -->
