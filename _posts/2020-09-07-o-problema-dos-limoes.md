@@ -22,7 +22,7 @@ O problema é que isso é um mau negócio para quem colocou à venda um carro bo
 
 É isto que chamamos de um filtro de seleção adversa: um filtro que funciona de maneira inversa à que desejamos, que retém o que é bom e permite a passagem só do que é ruim.
 
-Este problema, apresentado acima, é conhecido como o problema dos limões, em referência ao apelido que os americanos dão aos carros usados que se provam maus negócios para o comprador (“*lemons*“), e prova como nem sempre “esconder o jogo” para quem tem informações privilegiadas é uma estratégia inteligente: pode, isso sim, destruir a base de confiança de um mercado e inviabilizar qualquer negócio. O problema foi identificado e exposto por George Akerloff no seu famoso artigo de (Akerlof, George A. "The market for “lemons”: Quality uncertainty and the market mechanism." _Uncertainty in economics_. Academic Press, 1978. 235-251.)
+Este problema, apresentado acima, é conhecido como o problema dos limões, em referência ao apelido que os americanos dão aos carros usados que se provam maus negócios para o comprador (“*lemons*“), e prova como nem sempre “esconder o jogo” para quem tem informações privilegiadas é uma estratégia inteligente: pode, isso sim, destruir a base de confiança de um mercado e inviabilizar qualquer negócio. O problema foi identificado e exposto por George Akerlof no seu [famoso artigo de 1970](https://github.com/douglasdnn/douglasdnn.github.io/tree/master/_posts/akerlof.pdf) (Akerlof, George A. "The market for “lemons”: Quality uncertainty and the market mechanism." _The Quarterly Journal of Economics_,  Academic Press, 1978. 235-251.)
 
 Vamos ver como isso funciona em um exemplo de nossa realidade nacional: planos de saúde.
 
@@ -43,5 +43,5 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1ODk5NDI0XX0=
+eyJoaXN0b3J5IjpbMTU2MTYzNjYzNSw0OTU4OTk0MjRdfQ==
 -->
