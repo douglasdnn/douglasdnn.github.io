@@ -29,7 +29,7 @@ O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportuni
 
 O segundo ponto é que este comportamento, impulsionado pela insatisfação, pode evoluir em direções bastante prejudiciais - e que facilmente podem impõem perdas bem superiores que o eventual "ganho" ilusório obtido no leilão invertido de salários. Falo aqui do chamado **risco moral** (*moral hazard*), o comportamento de um agente, em uma situação de conflito entre interesses do agente (empregado) e do principal (empregador) onde é priorizado o interesse daquele em detrimento deste. 
 
-Os casos mais comuns envolvem a busca de poder de barganha para novos *rounds* de negociação salarial, com a criação de situações de dependência e indispensabilidade - como retenção de informações, posicionamento estratégico em processos 
+Os casos mais extremos envolvem a busca de poder de barganha para novos *rounds* de negociação salarial, com a criação de situações de dependência e indispensabilidade - como retenção de informações vitais, posicionamento deliberadamente estratégico em processos sensíveis ou mesmo criação artificial de passivos trabalhistas como valor de ameaça. De novo, um comportamento **esperado**, ainda mais se a mensagem passa
 
   
 A receita ideal para perder colaboradores com potencial, um filtro de retenção de pessoas sem potencial.
@@ -38,5 +38,6 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODIzMzMxMiwtMjA1NDczMDU3Ml19
+eyJoaXN0b3J5IjpbLTEzNzE4NTc2NTUsLTIwNTQ3MzA1NzJdfQ
+==
 -->
