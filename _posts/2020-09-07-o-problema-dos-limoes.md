@@ -3,7 +3,7 @@
 layout: post
 title:  "O Problema dos Limões"
 categories: economia
-image: "https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/01/11256_1CF540E9ECDD54CB.jpg"
+image: "https://steemitimages.com/p/4PYjjVwJ1UdtK9g3KMeuiL3kBJmEdpdRwv2jeZoRxXzHtrrSfabPbdW8WwLRPzRbGYryY3u6B3gyS4an7oX4Br19Jq17LoykNWKN9RYvjHg?format=match&mode=fit&width=640"
 published: true
 ---
 
@@ -52,6 +52,6 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY3NzM4MDUsMjM3MDg4MTcyLDQ5NT
-g5OTQyNF19
+eyJoaXN0b3J5IjpbLTg4ODQ5MDcyMiwyMzcwODgxNzIsNDk1OD
+k5NDI0XX0=
 -->
