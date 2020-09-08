@@ -38,7 +38,9 @@ Vamos supor que um plano de saúde discrimina seus clientes em dois grandes grup
 
 O plano sabe, por ter acesso a dados estatísticos históricos, que se contasse somente com clientes de alto risco, o valor teria de ser maior do que os R$ 300,00: ele só consegue oferecer este valor porque “sobra”, do grupo de baixo risco, uma soma de recursos, que eles, por serem de baixo risco, acabam contribuindo e não usando. Assim, ele consegue atrair ambos os tipos de clientes com valores que são justos para cada um. É como o mercado de seguros "aprendeu" a funcionar com os anos.
 
-Mas vamos supor que um deputado (sempre eles, sempre eles!), munido da maior boa-vontade (ou, supondo que isso exista, buscando ), resolve “proteger o consumidor” com uma legislação muito humanitária e piedosa: a partir de agora, é proibido aos planos de saúde estabelecerem discriminação por risco, e o mesmo valor deve ser cobrado de todos os clientes.
+Mas vamos supor que um deputado (sempre eles, sempre eles!), munido da maior boa-vontade (ou, supondo que isso exista, buscando fazer uma pequena exibição de virtude com fins meramente eleitorais), resolve “proteger o consumidor” com uma legislação muito humanitária e piedosa: *a partir de agora, é proibido aos planos de saúde estabelecer discriminação por risco, e o mesmo valor deve ser cobrado de todos os clientes.*
+
+Afinal, que boa alma poderia discordar da ideia de "vamos acabar com as discriminações", não é mesmo?
 
 Impedida de segmentar os clientes, a seguradora refaz os cálculos pela média e descobre, então, que um valor de R$ 200,00 cobre os gatos médios do seu universo de segurados, baseado nos seus históricos de consumo de serviços de saúde.
 
@@ -53,5 +55,5 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNzA3MjE3XX0=
+eyJoaXN0b3J5IjpbMzIwOTM0MzQ4XX0=
 -->
