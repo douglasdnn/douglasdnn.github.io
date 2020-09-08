@@ -60,11 +60,11 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 Um purista do livre-mercado (e há algumas correntes de pensamento na economia heterodoxa que não reconhecem a existência de **falhas de mercado**, tema que é pacífico na economia científica, *manistream*) poderia, em uma leitura apressada do exemplo dos seguros, vaticinar: "basta então o Estado nunca se meter". Errado. A ação do Estado não é, por sua própria natureza, boa ou má. Nunca é muito claro se o Estado *deve* interferir em um certo mercado - quase sempre é uma decisão mais política do que técnica -  mas, se ele interferir, deve ser no sentido de **melhorar a estrutura do mercado**. 
 
-Vimos no primeiro exemplo que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele devesse. Uma lei que permitisse os 
+Vimos no primeiro exemplo que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele devesse. Uma lei que garantisse aos compradores de carros  devolver os carros em uma semana, sem necessidade de justificativas, caso estivessem insatisfeitos com o negócio, poderia desmotivar mentirosos a entrar no mercado.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NDgyOTksLTEzMDMzMTY5MzIsNTk3ND
-Y1MDAzLC0xNjE4Mzk5ODMzXX0=
+eyJoaXN0b3J5IjpbLTYxMjE1OTkxNywtMTMwMzMxNjkzMiw1OT
+c0NjUwMDMsLTE2MTgzOTk4MzNdfQ==
 -->
