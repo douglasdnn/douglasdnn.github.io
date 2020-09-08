@@ -21,11 +21,13 @@ Mas nem tudo são flores para o empregador. A tática de manter uma assimetria d
 
 Em primeiro lugar, devemos reconhecer que na maior parte do tempo motivações de curto prazo possuem um peso muito maior na vida das pessoas do que considerações de longo - especialmente quando há uma percepção de insegurança sobre perspectivas ou projeções de longo prazo, como frequentemente há em crises (conjunturais ou pessoais). Isso incentiva, de modo totalmente compreensível, um "lance" abaixo do preço de mercado, talvez até predatório, do candidato para garantir a vaga. "Ter um trabalho", afinal, é um alvo prioritário. "Ter um trabalho que pague adequadamente" é um alvo de oportunidade. O selecionado que assim pensa já entra no posto de trabalho com a mentalidade de "OK, a situação é temporária e apenas para assegurar a vaga: a negociação de verdade começa agora". 
 
-Se ele consegue equalizar o salário (ou seja: descontar a situação de inferioridade na negociação, trazendo o preço para o que seria sem a assimetria) no curso do contrato, tudo bem. Mas não é o que ocorre sempre: o normal é a empresa pretender manter a vantagem, que vê como uma vitória.
+Se ele consegue equalizar o salário (ou seja: descontar a situação de inferioridade na negociação, trazendo o preço para o que seria sem a assimetria) no curso do contrato, tudo bem. Mas não é o que ocorre sempre: o normal é a empresa, iludida com a sensação de vitória, pretender manter a vantagem.
 
-Temos aí um empregado desmotivado, pensando no curto prazo, considerando pular fora assim que entrou - e não devemos julgar esse comportamento senão como um *lance racional* em um jogo que ele estava *jogando com poucas cartas*. Considerações morais, aqui, ficam atrás do fato de que este é um comportamento **esperado** e **selecionado**. 
+Quando isso ocorre, temos aí um empregado desmotivado, pensando no curto prazo, considerando pular fora assim que entrou - e não devemos julgar esse comportamento senão como um *lance racional* em um jogo que ele estava *jogando com poucas cartas*. Considerações morais, aqui, ficam atrás do fato de que este é um comportamento **esperado** e **selecionado**. 
 
 O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportunidades que têm à mão, e preenchem suas necessidades em uma ordem onde a sobrevivência - comer, alimentar os filhos, pagar os boletos - claramente se impõe ao bom e transparente relacionamento com colegas, chefia e empresa.
+
+O segundo ponto é que este comportamento, se não  pode evoluir em 
 
   
 A receita ideal para perder colaboradores com potencial, um filtro de retenção de pessoas sem potencial.
@@ -34,5 +36,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMzNzcwNDddfQ==
+eyJoaXN0b3J5IjpbLTIwNDgxNzQ4OF19
 -->
