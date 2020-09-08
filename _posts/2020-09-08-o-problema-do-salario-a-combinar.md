@@ -15,7 +15,8 @@ O empregador naturalmente já possui maior poder de barganha em uma negociação
 
 Mas nem tudo são flores para o empregador. A tática de manter uma assimetria de informação forçada, amparada pelas circunstâncias, que a benefice ainda mais, principalmente em momentos de crise ou em mercados saturados (e ainda mais quando os dois fatores são combinados) cria uma tendência, tão mais forte quanto as circustâncias são desfavoráveis, é que se crie um forte "leilão de menor preço" - aqui é onde as coisas se complicam, e prova que a tática de operar com leilão reverso para explorar a vantagem não é tão sábia.
 
-Em primeiro lugar, devemos reconhecer que 
+Em primeiro lugar, devemos reconhecer que na maior parte do tempo motivações de curto prazo possuem um peso muito maior na vida das pessoas do que considerações de longo - especialmente quando há uma percepção de insegurança sobre perspectivas ou prde longo prazo, .
+
 o  sempre um "lance" abaixo do mercado, talvez até predatório, do candidato para garantir a vaga.
 
 Mas isso é ilusório. A  O selecionado já entra no posto de trabalho com a mentalidade "OK, a situação é temporária e apenas para assegurar a vaga: conseguindo, vamos falar sério".
@@ -30,5 +31,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAzMTM0NTddfQ==
+eyJoaXN0b3J5IjpbODMxOTAyNzEzXX0=
 -->
