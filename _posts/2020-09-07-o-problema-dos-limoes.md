@@ -34,9 +34,11 @@ Este problema, apresentado acima, é conhecido como o problema dos limões, em r
 
 Vamos ver como isso funciona em um exemplo de nossa realidade nacional: planos de saúde.
 
-Vamos supor que um plano de saúde discrimina seus clientes em dois grandes grupos: o grupo dos clientes de alto risco, que pagam R$ 300,00 para o plano por mês, e os clientes de baixo risco, que pagam R$ 100,00 para o plano no mesmo período. O plano sabe, por ter acesso a dados estatísticos históricos, que se contasse somente com clientes de alto risco, o valor teria de ser maior do que os R$ 300,00: ele só consegue oferecer este valor porque “sobra”, do grupo de baixo risco, uma soma de recursos, que eles, por serem de baixo risco, acabam contribuindo e não usando. Assim, ele consegue atrair ambos os tipos de clientes com valores que são justos para cada um.
+Vamos supor que um plano de saúde discrimina seus clientes em dois grandes grupos: o grupo dos clientes de alto risco, que pagam R$ 300,00 para o plano por mês, e os clientes de baixo risco, que pagam R$ 100,00 para o plano no mesmo período. 
 
-Mas vamos supor que um deputado (sempre eles!), munido da maior boa-vontade, resolve “proteger o consumidor” com uma legislação muito humanitária e piedosa: a partir de agora, é proibido aos planos de saúde estabelecerem discriminação por risco, e o mesmo valor deve ser cobrado de todos os clientes.
+O plano sabe, por ter acesso a dados estatísticos históricos, que se contasse somente com clientes de alto risco, o valor teria de ser maior do que os R$ 300,00: ele só consegue oferecer este valor porque “sobra”, do grupo de baixo risco, uma soma de recursos, que eles, por serem de baixo risco, acabam contribuindo e não usando. Assim, ele consegue atrair ambos os tipos de clientes com valores que são justos para cada um. É como o mercado de seguros "aprendeu" a funcionar com os anos.
+
+Mas vamos supor que um deputado (sempre eles, sempre eles!), munido da maior boa-vontade (ou, supondo que isso exista, buscando ), resolve “proteger o consumidor” com uma legislação muito humanitária e piedosa: a partir de agora, é proibido aos planos de saúde estabelecerem discriminação por risco, e o mesmo valor deve ser cobrado de todos os clientes.
 
 Impedida de segmentar os clientes, a seguradora refaz os cálculos pela média e descobre, então, que um valor de R$ 200,00 cobre os gatos médios do seu universo de segurados, baseado nos seus históricos de consumo de serviços de saúde.
 
@@ -51,5 +53,5 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjQ0NDYwOV19
+eyJoaXN0b3J5IjpbNDYyNzA3MjE3XX0=
 -->
