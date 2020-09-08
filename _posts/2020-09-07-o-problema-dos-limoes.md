@@ -6,7 +6,7 @@ image: "https://steemitimages.com/p/4PYjjVwJ1UdtK9g3KMeuiL3kBJmEdpdRwv2jeZoRxXzH
 published: true
 ---
 
-> _Nota: texto publicado originalmente no meu antigo site, douglasdnn.com: [https://web.archive.org/web/20160324110343/http://douglasdnn.com/o-problema-dos-limoes/](https://web.archive.org/web/20160324110343/http://douglasdnn.com/o-problema-dos-limoes/ "This link will take you away from steemit.com")_
+> _Nota: texto publicado originalmente no meu antigo site, douglasdnn.com: [https://web.archive.org/web/20160324110343/http://douglasdnn.com/o-problema-dos-limoes/](https://web.archive.org/web/20160324110343/http://douglasdnn.com/o-problema-dos-limoes/ "This link will take you away from steemit.com"). Com adaptações._
 
 *Como a informação assimétrica pode levar à criação de mecanismos de seleção adversa? É possível destruir um mercado por deficiência de informação? Esconder informação sempre é um bom negócio para quem sabe mais?*
 
@@ -50,12 +50,12 @@ Por outro lado, uma série de pacientes de alto risco que não tinham seguro - s
 
 Com mais clientes de alto consumo e menos de baixo, as finanças do plano se deterioram na segunda iteração. Mais "usuários pesados" entraram, mais "usuários leves" saíram. O uso do serviço de saúde consequentemente aumentou.
 
-Para contrabalancear, o plano aumenta o preço médio – **o que expulsa ainda mais clientes de baixo risco**. O que piora a terceira iteração, e assim sucessivamente, até a desintegração do mercado específico - quando não sobra mais clientes "superavitários" para manter os "deficitários". Agora é ca
+Para contrabalancear, o plano aumenta o preço médio – **o que expulsa ainda mais clientes de baixo risco**. O que piora a terceira iteração, e assim sucessivamente, até a desintegração do mercado específico - quando não sobra mais clientes "superavitários" para manter os "deficitários". Agora é *cada um por si* - o pior para todo mundo.
 
 Entender a mecânica dos filtros de seleção adversa e como eles são gerados pela assimetria informacional ajuda a prever o resultado prático de legislações restritivas, o que será obtido de fato por regulamentações alegadamente samaritanas. Também ajuda a prever qual deve ser o papel da boa lei ou da boa intervenção judicial, para auxiliar no processo de mútua revelação de informações, diminuindo o custo de insegurança inerente a certos tipos de negociação, permitindo que surja bem-estar em situações que, se não fosse facilitada a troca informacional por um agente externo, seriam estéreis.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNjYzNjU4XX0=
+eyJoaXN0b3J5IjpbLTE2MTgzOTk4MzNdfQ==
 -->
