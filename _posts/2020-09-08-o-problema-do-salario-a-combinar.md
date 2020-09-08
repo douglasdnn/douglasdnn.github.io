@@ -21,7 +21,9 @@ A percepção de que isso se reverterá em lucro para o empregador é ilusória.
 
 Se ele consegue equalizar o salário (ou seja: descontar a situação de inferioridade na negociação, trazendo o preço para o que seria sem a assimetria) no curso do contrato, tudo bem. Mas não é o que ocorre sempre: o normal é a empresa pretender manter a vantagem, que vê como uma vitória.
 
-Temos aí um empregado desmotivado, pensando no curto prazo, considerando pular fora assim que entrou - e não devemos julgar esse comportamento senão como um *lance racional* em um jogo que ele estava jogando com poucas cartas. Considerações morais, aqui, ficam atrás do fato de que este é um comportamento **esperado** e **selecionado**. 
+Temos aí um empregado desmotivado, pensando no curto prazo, considerando pular fora assim que entrou - e não devemos julgar esse comportamento senão como um *lance racional* em um jogo que ele estava *jogando com poucas cartas*. Considerações morais, aqui, ficam atrás do fato de que este é um comportamento **esperado** e **selecionado**. 
+
+O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportunidades que têm à mão, e preenchem suas necessidades em uma ordem onde a sobrevivência se impõe sobre o conforto ou mesmo a 
   
 A receita ideal para perder colaboradores com potencial, um filtro de retenção de pessoas sem potencial.
 
@@ -29,5 +31,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4NDAzNDU0XX0=
+eyJoaXN0b3J5IjpbLTQyOTg3MjUwN119
 -->
