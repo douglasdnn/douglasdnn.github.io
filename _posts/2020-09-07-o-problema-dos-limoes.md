@@ -59,7 +59,7 @@ Para contrabalancear, o plano aumenta o preço médio – **o que expulsa ainda 
 
 Um purista do livre-mercado (e há algumas correntes de pensamento na economia heterodoxa que não reconhecem a existência de **falhas de mercado**, tema que é pacífico na economia científica, *mainstream*) poderia, em uma leitura apressada do exemplo dos seguros, vaticinar: "*Ora, basta então o Estado nunca se meter*". Errado. Simplista e errado.
 
-A ação do Estado não é, por sua própria natureza, boa ou má. Nunca é muito claro se o Estado *deve* interferir em um certo mercado - quase sempre é uma decisão mais política do que técnica -  mas, se ele interferir, deve ser no sentido de **melhorar a estrutura do mercado**. Quando o Estado interfere na economia de modo a melhorar as interações entre os agentes ecôni
+A ação do Estado não é, por sua própria natureza, boa ou má. Nunca é muito claro se o Estado *deve* interferir em um certo mercado - quase sempre é uma decisão mais política do que técnica -  mas, se ele interferir, deve ser no sentido de **melhorar a estrutura do mercado**. Quando o Estado interfere na economia de modo a melhorar as interações entre os agentes econômicos, a permitir que transações mutualmente benéficas, potenciais, tenham seus obstáculos removidos para efetivamente se realizar, a sua ação foi benéfica. Quando ele age para colocar obstáculos, jogar areia nas engrenagens, teria sido melhor se omitir.
 
 Vimos no primeiro exemplo (o dos carros) que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele devesse interferir. Uma lei que garantisse aos compradores de carros ruins devolver os carros em até uma semana sem necessidade de maiores justificativas, caso estivessem insatisfeitos com o negócio, poderia desmotivar mentirosos a entrar no mercado, salvando-o da ruína.
 
@@ -69,6 +69,6 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUwNjQ2MSwtNzU4MDk1NDI2LC0xMz
-AzMzE2OTMyLDU5NzQ2NTAwMywtMTYxODM5OTgzM119
+eyJoaXN0b3J5IjpbLTE2MDc2NjUyODksLTc1ODA5NTQyNiwtMT
+MwMzMxNjkzMiw1OTc0NjUwMDMsLTE2MTgzOTk4MzNdfQ==
 -->
