@@ -9,7 +9,7 @@ Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propo
 
 De toda forma, a questão é interessante e polêmica. Por um lado, defensores da livre concorrência argumentam que as empresas são livres para jogar com as cartas que possuem - e que ninguém teria direito de exigir nada de quem está ofertando livremente algo, senão aceitar os termos ou deixar passar. De outro, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Os dois lados possuem alguma razão.
 
-O fato - inegável, aliás - de que uma empresa é livre para . Mas este texto não trata de direitos, mas 
+O fato - inegável, aliás - de que uma empresa é livre para ofertar o que bem entender no mercado de trabalho, desde que o objeto seja lícito, não se põe em discussão. E, de um ponto de vista econômico, principalmente amparado em princípios liberais, seria fácil expor um sólido caso de porquê tal .
 
 O empregador naturalmente já possui muito maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita. A tática de manter uma assimetria de informação forçada a beneficia ainda mais. Principalmente em momentos de crise ou em mercados saturados, a tendência é sempre um "lance" abaixo do mercado, talvez até predatório, do candidato para garantir a vaga.
 
@@ -25,5 +25,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzEzMjM4NF19
+eyJoaXN0b3J5IjpbNzEzNjk1OTc0XX0=
 -->
