@@ -29,15 +29,13 @@ O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportuni
 
 O segundo ponto é que este comportamento, impulsionado pela insatisfação, pode evoluir em direções bastante prejudiciais - e que facilmente podem impõem perdas bem superiores que o eventual "ganho" ilusório obtido no leilão invertido de salários. Falo aqui do chamado **risco moral** (*moral hazard*), o comportamento de um agente, em uma situação de conflito entre interesses do agente (empregado) e do principal (empregador) onde é priorizado o interesse daquele em detrimento deste. 
 
-Os casos mais extremos envolvem a busca de poder de barganha para novos *rounds* de negociação salarial, com a criação de situações de dependência e indispensabilidade - como retenção de informações vitais, posicionamento deliberadamente estratégico em processos sensíveis ou mesmo criação artificial de passivos trabalhistas como valor de ameaça. De novo, um comportamento **esperado**, ainda mais se a mensagem passa
+Os casos mais extremos envolvem a busca de poder de barganha para novos *rounds* de negociação salarial, com a criação de situações de dependência e indispensabilidade - como retenção de informações vitais, posicionamento deliberadamente estratégico em processos sensíveis ou mesmo criação artificial de passivos trabalhistas como valor de ameaça. De novo, um comportamento **esperado**, ainda mais se a mensagem passada sobre a relação da empresa com os seus subordinados não é de colaboração, mas conflituosa, onde vale explorar qualquer situação e utilizar qualquer arma.
 
-  
-A receita ideal para perder colaboradores com potencial, um filtro de retenção de pessoas sem potencial.
+Quarto, um leilão de preços é a receita ideal para perder colaboradores com maipotencial, um filtro de retenção de pessoas sem potencial.
 
 E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pior da sua marca.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE4NTc2NTUsLTIwNTQ3MzA1NzJdfQ
-==
+eyJoaXN0b3J5IjpbODcyOTIzNDMyLC0yMDU0NzMwNTcyXX0=
 -->
