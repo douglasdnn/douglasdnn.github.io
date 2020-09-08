@@ -32,9 +32,9 @@ Ou seja, o universo de bens à venda, para o consumidor, é pior na segunda iter
 
 É isto que chamamos de um filtro de seleção adversa: um filtro que funciona de maneira inversa à que desejamos, que retém o que é bom e permite a passagem só do que é ruim.
 
-No limite, na iteração n, ninguém faz mais negócio: todos sabem que carro nenhum vale o se
+No limite, na iteração n, ninguém faz mais negócio: todos sabem que carro nenhum vale o seu preço. Aquele mercado desmorona, estagnado.
 
-Este problema, apresentado acima, é conhecido como o problema dos limões, em referência ao apelido que os americanos dão aos carros usados que se provam maus negócios para o comprador (“*lemons*“), e prova como nem sempre “esconder o jogo” para quem tem informações privilegiadas é uma estratégia inteligente: pode, isso sim, destruir a base de confiança de um mercado e inviabilizar qualquer negócio. O problema foi identificado e exposto por George Akerlof no seu [famoso artigo de 1970](http://www.sfu.ca/~wainwrig/Econ400/akerlof.pdf) (*Akerlof, George A. "***The market for “lemons”: Quality uncertainty and the market mechanism***." The Quarterly Journal of Economics,  Volume 84, Issue 3 (Aug., 1970), 488-500).*
+Este problema, apresentado acima, é conhecido como *o problema dos limões*, em referência ao apelido que os americanos dão aos carros usados que se provam maus negócios para o comprador (“*lemons*“), e prova como nem sempre “esconder o jogo” para quem tem informações privilegiadas é uma estratégia inteligente: pode, isso sim, destruir a base de confiança de um mercado e inviabilizar qualquer negócio. O problema foi identificado e exposto por George Akerlof no seu [famoso artigo de 1970](http://www.sfu.ca/~wainwrig/Econ400/akerlof.pdf) (*Akerlof, George A. "***The market for “lemons”: Quality uncertainty and the market mechanism***." The Quarterly Journal of Economics,  Volume 84, Issue 3 (Aug., 1970), 488-500).*
 
 Vamos ver como isso funciona em um exemplo de nossa realidade nacional: planos de saúde.
 
@@ -58,9 +58,11 @@ Para contrabalancear, o plano aumenta o preço médio – **o que expulsa ainda 
 
 Entender a mecânica dos filtros de seleção adversa e como eles são gerados pela assimetria informacional ajuda a prever o resultado prático de legislações restritivas, o que será obtido de fato por regulamentações alegadamente samaritanas. Também ajuda a prever qual deve ser o papel da boa lei ou da boa intervenção judicial, para auxiliar no processo de mútua revelação de informações, diminuindo o custo de insegurança inerente a certos tipos de negociação, permitindo que surja bem-estar em situações que, se não fosse facilitada a troca informacional por um agente externo, seriam estéreis.
 
+Um purista do livre-mercado (
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1ODE3MDA1LC0xMzAzMzE2OTMyLDU5Nz
-Q2NTAwMywtMTYxODM5OTgzM119
+eyJoaXN0b3J5IjpbLTc4NzQxMTM0NiwtMTMwMzMxNjkzMiw1OT
+c0NjUwMDMsLTE2MTgzOTk4MzNdfQ==
 -->
