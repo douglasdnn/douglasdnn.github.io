@@ -31,11 +31,13 @@ O segundo ponto é que este comportamento, impulsionado pela insatisfação, pod
 
 Os casos mais extremos envolvem a busca de poder de barganha para novos *rounds* de negociação salarial, com a criação de situações de dependência e indispensabilidade - como retenção de informações vitais, posicionamento deliberadamente estratégico em processos sensíveis ou mesmo criação artificial de passivos trabalhistas como valor de ameaça. De novo, um comportamento **esperado**, ainda mais se a mensagem passada sobre a relação da empresa com os seus subordinados não é de colaboração, mas conflituosa, onde vale explorar qualquer situação e utilizar qualquer arma.
 
-Quarto, um leilão de preços é a receita ideal para perder colaboradores com maipotencial, um filtro de retenção de pessoas sem potencial.
+Quarto, um leilão de salários é a receita ideal para perder colaboradores com maior potencial, se constituindo em um filtro de retenção de pessoas com menores ambições, menor motivação e menores capacidades. 
 
-E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pior da sua marca.
+Quinto, a cada visualização de um claro leilão de salários, uma pessoa a mais que olha o seu anúncio e pensa o pior da sua marca.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyOTIzNDMyLC0yMDU0NzMwNTcyXX0=
+eyJoaXN0b3J5IjpbLTIwODIwNTU5NDUsLTIwNTQ3MzA1NzJdfQ
+==
 -->
