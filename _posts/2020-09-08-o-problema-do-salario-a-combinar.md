@@ -7,9 +7,9 @@ published: false
 ---
 Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego - é normal que reclamem de uma certa percepção de *deslealdade*, como se o empregador ou ofertante estivesse abusando de sua posição de *market maker*. A questão é interessante e polêmica.
 
-Por um lado, defensores da livre concorrência e puristas do livre mercado argumentam que as empresas *são livres para jogar com as cartas que possuem* - e que ninguém teria direito de exigir nada de quem está ofertando livremente algo, senão aceitar os termos ou deixar passar. Além disso, alegam que quanto maior a liberdade das empresas para ofertar livremente, mais postos de trabalho surgirão - e estão certos em ambos os argumentos.
+Por um lado, defensores da livre concorrência e puristas do livre mercado argumentam que as empresas *são livres para jogar com as cartas que possuem* - e que ninguém teria direito de exigir nada de quem está ofertando livremente algo, senão aceitar os termos ou deixar passar. Além disso, alegam que quanto maior a liberdade das empresas para ofertar livremente, mais postos de trabalho surgirão - e, vejam, eles estão certos em ambos os argumentos.
 
-De outro, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Elas têm razão, aliás: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não. 
+Do outro lado, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Elas também têm razão: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não. Pelo mesmo motivo que elaboramos acima, asessoas são livres para fazer os julgamentos morais.
 
 Os dois lados possuem alguma razão.
 
@@ -36,5 +36,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ3NjMzNjZdfQ==
+eyJoaXN0b3J5IjpbMTYxMDUzMDM3OF19
 -->
