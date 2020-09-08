@@ -42,11 +42,11 @@ Mas vamos supor que um deputado (sempre eles, sempre eles!), munido da maior boa
 
 Afinal, que boa alma poderia discordar da ideia de "vamos acabar com as discriminações", não é mesmo?
 
-Impedida de segmentar os clientes, a seguradora refaz os cálculos pela média e descobre, então, que um valor de R$ 200,00 cobre os gatos médios do seu universo de segurados, baseado nos seus históricos de consumo de serviços de saúde.
+Impedida de segmentar os clientes, a seguradora refaz os cálculos **pela média** e descobre, então, que um valor de R$ 200,00 cobre os gatos médios do seu universo total de segurados, baseado nos seus históricos de consumo de serviços de saúde.
 
-Mas R$ 200,00 é um valor que não vale mais a pena para o segurado de baixo risco, segundo a sua percepção própria de risco! Para ele, R$ 100,00 representava bem a sua preocupação com a própria saúde. Mas R$ 200,00? É demais! Assim, ele se retira do contrato.
+Mas R$ 200,00 é um valor que não vale mais a pena para o segurado de baixo risco, segundo a sua percepção própria de risco! Para ele, R$ 100,00 representava bem a sua preocupação com a própria saúde. Ele não acha que vai usar muito o plano.  R$ 200,00? É demais! Assim, **ele se retira do contrato**.
 
-Por outro lado, uma série de pacientes de alto risco que não tinham seguro agora olham o valor médio, R$ 100,00 mais barato do que na época da discriminação, e entram no plano.
+Por outro lado, uma série de pacientes de alto risco que não tinham seguro - sempre lhes foi cobrado muito caro: afinal, eles usam muito o serviço de saúde - agora olham o valor médio, R$ 100,00 mais barato do que na época da discriminação, e entram no plano. Passou a ser uma pechi
 
 Com mais clientes de alto consumo e menos de baixo, as finanças do plano se deterioram na segunda iteração. Para contrabalancear, o plano aumenta o preço médio – o que expulsa mais clientes de baixo risco. O que piora a terceira iteração, e assim sucessivamente, até a desintegração do mercado específico.
 
@@ -55,5 +55,5 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwOTM0MzQ4XX0=
+eyJoaXN0b3J5IjpbLTExMTk2MzEwMDZdfQ==
 -->
