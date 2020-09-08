@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "O Problema dos Limões"
+categories: economia
+image: "https://steemitimages.com/p/4PYjjVwJ1UdtK9g3KMeuiL3kBJmEdpdRwv2jeZoRxXzHtrrSfabPbdW8WwLRPzRbGYryY3u6B3gyS4an7oX4Br19Jq17LoykNWKN9RYvjHg?format=match&mode=fit&width=640"
+published: false
+---
 Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego.
 
 O empregador naturalmente já possui muito maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita. A tática de manter uma assimetria de informação forçada a beneficia ainda mais. Principalmente em momentos de crise ou em mercados saturados, a tendência é sempre um "lance" abaixo do mercado, talvez até predatório, do candidato para garantir a vaga.
@@ -15,5 +21,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE1Mzc3ODFdfQ==
+eyJoaXN0b3J5IjpbLTIxMzg0OTc1NzBdfQ==
 -->
