@@ -8,7 +8,7 @@ published: true
 
 > _Nota: texto publicado originalmente no meu antigo site, douglasdnn.com: [https://web.archive.org/web/20160324110343/http://douglasdnn.com/o-problema-dos-limoes/](https://web.archive.org/web/20160324110343/http://douglasdnn.com/o-problema-dos-limoes/ "This link will take you away from steemit.com")_
 
-*_Como a informação assimétrica pode levar à criação de mecanismos de seleção adversa? É possível destruir um mercado por deficiência de informação? Esconder informação sempre é um bom negócio para quem sabe mais?_*
+*Como a informação assimétrica pode levar à criação de mecanismos de seleção adversa? É possível destruir um mercado por deficiência de informação? Esconder informação sempre é um bom negócio para quem sabe mais?*
 
 Imaginemos um mercado hipotético de carros usados. Sabemos que comprar um carro usado é algo complicado: o vendedor sempre garante que o carro é uma beleza, que a mecânica é uma maravilha, que o motor está tinindo, e que pechincha melhor não será encontrada. 
 
@@ -51,5 +51,5 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY3ODE0MjhdfQ==
+eyJoaXN0b3J5IjpbLTk0Mzk4Mzc3NF19
 -->
