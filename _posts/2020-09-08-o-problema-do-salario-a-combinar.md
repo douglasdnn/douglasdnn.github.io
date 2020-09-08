@@ -17,11 +17,11 @@ Mas nem tudo são flores para o empregador. A tática de manter uma assimetria d
 
 Em primeiro lugar, devemos reconhecer que na maior parte do tempo motivações de curto prazo possuem um peso muito maior na vida das pessoas do que considerações de longo - especialmente quando há uma percepção de insegurança sobre perspectivas ou projeções de longo prazo, como frequentemente há em crises (conjunturais ou pessoais). Isso incentiva, de modo totalmente compreensível, um "lance" abaixo do preço de mercado, talvez até predatório, do candidato para garantir a vaga.
 
-A percepção de que isso se reverterá em lucro para o empregador é ilusória. O selecionado já entra no posto de trabalho com a mentalidade "OK, a situação é temporária e apenas para assegurar a vaga: conseguindo, vamos falar sério".
+A percepção de que isso se reverterá em lucro para o empregador é ilusória. O selecionado já entra no posto de trabalho com a mentalidade "OK, a situação é temporária e apenas para assegurar a vaga: a negociação de verdade começa agora". 
 
-Se ele consegue equalizar o salário (ou seja: descontar a situação de inferioridade na negociação, trazendo o preço para o que seria sem a assimetria), tudo bem. Mas não é o que ocorre sempre: o normal é a empresa pretender manter a vantagem.
+Se ele consegue equalizar o salário (ou seja: descontar a situação de inferioridade na negociação, trazendo o preço para o que seria sem a assimetria) no curso do contrato, tudo bem. Mas não é o que ocorre sempre: o normal é a empresa pretender manter a vantagem, que vê como uma vitória.
 
-Temos aí um empregado desmotivado, pensando no curto prazo, em pular fora antes mesmo de entrar - e com razão.
+Temos aí um empregado desmotivado, pensando no curto prazo, em pular fora assim que entrou - e não devemos julgar esse compo. 
   
 A receita ideal para perder colaboradores com potencial, um filtro de retenção de pessoas sem potencial.
 
@@ -29,5 +29,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMTgxNjIwXX0=
+eyJoaXN0b3J5IjpbLTM3NjUwNTg5Nl19
 -->
