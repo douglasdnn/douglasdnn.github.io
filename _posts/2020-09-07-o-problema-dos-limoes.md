@@ -58,11 +58,11 @@ Para contrabalancear, o plano aumenta o preço médio – **o que expulsa ainda 
 
 Entender a mecânica dos filtros de seleção adversa e como eles são gerados pela assimetria informacional ajuda a prever o resultado prático de legislações restritivas, o que será obtido de fato por regulamentações alegadamente samaritanas. Também ajuda a prever qual deve ser o papel da boa lei ou da boa intervenção judicial, para auxiliar no processo de mútua revelação de informações, diminuindo o custo de insegurança inerente a certos tipos de negociação, permitindo que surja bem-estar em situações que, se não fosse facilitada a troca informacional por um agente externo, seriam estéreis.
 
-Um purista do livre-mercado (e há algumas correntes de pensamento na economia heterodoxa que não reconhecem a existência de **falhas de mercado**, tema que é pacífico na economia científica, *manistream*) popderia, 
+Um purista do livre-mercado (e há algumas correntes de pensamento na economia heterodoxa que não reconhecem a existência de **falhas de mercado**, tema que é pacífico na economia científica, *manistream*) poderia, em uma leitura apressada do exemplo dos seguros, vaticinar: "basta então o Estado nunca se meter". Errado. A ação .
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMTcwNjEwLC0xMzAzMzE2OTMyLDU5Nz
+eyJoaXN0b3J5IjpbNTY4MDY3NjY2LC0xMzAzMzE2OTMyLDU5Nz
 Q2NTAwMywtMTYxODM5OTgzM119
 -->
