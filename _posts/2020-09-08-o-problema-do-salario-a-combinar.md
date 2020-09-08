@@ -25,7 +25,7 @@ Se ele consegue equalizar o salário (ou seja: descontar a situação de inferio
 
 Quando isso ocorre, temos aí um empregado desmotivado, pensando no curto prazo, considerando pular fora assim que entrou - e não devemos julgar esse comportamento senão como um *lance racional* em um jogo que ele estava *jogando com poucas cartas*. Considerações morais, aqui, ficam atrás do fato de que este é um comportamento **esperado** e **selecionado**. 
 
-O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportunidades que têm à mão, e preenchem suas necessidades em uma ordem onde a sobrevivência - comer, alimentar os filhos, pagar os boletos - claramente se impõe ao bom e transparente relacionamento com colegas, chefia e empresa. Evidentemente a ética dessa decisão é um 
+O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportunidades que têm à mão, e preenchem suas necessidades em uma ordem onde a sobrevivência - comer, alimentar os filhos, pagar os boletos - claramente se impõe ao bom e transparente relacionamento com colegas, chefia e empresa. Evidentemente a ética dessa decisão é um ponto complexo, e é fácil condenar a decisão de simular concordância  na esfera moral - mas lembremos, isso abre o flanco para diversas considerações morais do outro lado acerca da exploração da desvanta. 
 
 O segundo ponto é que este comportamento, impulsionado pela insatisfação, pode evoluir em direções bastante prejudiciais - e que facilmente podem impõem perdas bem superiores que o eventual "ganho" ilusório obtido no leilão invertido de salários. Falo aqui do chamado **risco moral** (*moral hazard*), o comportamento de um agente, em uma situação de conflito entre interesses do agente (empregado) e do principal (empregador) onde é priorizado o interesse daquele em detrimento deste. 
 
@@ -40,6 +40,6 @@ E, quinto: a cada visualização de um claro leilão de salários, uma pessoa a 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc3ODE3OSwtMTE3OTAzNTgxOCwtMT
+eyJoaXN0b3J5IjpbMTUwNDYxMjI5NCwtMTE3OTAzNTgxOCwtMT
 EzNDQyODI3OSwtMjA4MjA1NTk0NSwtMjA1NDczMDU3Ml19
 -->
