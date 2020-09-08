@@ -17,9 +17,9 @@ Mas irei pelo lado oposto, e não pelo caminho da apreciação moral. Existem fo
 
 O empregador naturalmente já possui maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita, ou de alguma forma pressionada. Ou seja, possui incentivos negativos para concordar com os termos apresentados, mesmo que não sejam ideais. Isso é natural, e dado pela própria natureza do mercado de trabalho. É de se esperar que esse "peso negativo" dos incentivos, então, seja descontado de um "preço de equilíbrio" hipotético (supondo igual poder na negociação) na formação do preço da mão-de-obra. Em um primeiro momento, o empregador poderia considerar que esta "bêncão" que a estrutura do mercado lhe traz é uma vantagem boa demais para se jogar fora com revelação de informação (o preço real que está disposto a pagar) que anularia tal vantagem.
 
-Mas nem tudo são flores para o empregador. A tática de manter uma assimetria de informação forçada, amparada pelas circunstâncias, que o benefice ainda mais, principalmente em momentos de crise ou em mercados saturados (e ainda mais quando os dois fatores são combinados) cria uma tendência - tão mais forte quanto as circustâncias são desfavoráveis - de que se crie um forte "leilão de menor preço" - aqui é onde as coisas se complicam, e prova que a tática de operar com leilão reverso para explorar a vantagem não é tão sábia.
+Mas nem tudo são flores para o empregador. A tática de manter uma assimetria de informação forçada, amparada pelas circunstâncias, que o benefice ainda mais, principalmente em momentos de crise ou em mercados saturados (e ainda mais quando os dois fatores são combinados) cria uma tendência - tão mais forte quanto as circustâncias são desfavoráveis - de que se crie um forte "leilão de menor preço" selvagem. E aqui é onde as coisas se complicam, e prova que a tática de operar com leilão reverso para explorar a vantagem não é tão sábia.
 
-Em primeiro lugar, devemos reconhecer que na maior parte do tempo motivações de curto prazo possuem um peso muito maior na vida das pessoas do que considerações de longo - especialmente quando há uma percepção de insegurança sobre perspectivas ou projeções de longo prazo, como frequentemente há em crises (conjunturais ou pessoais). Isso incentiva, de modo totalmente compreensível, um "lance" abaixo do preço de mercado, talvez até predatório, do candidato para garantir a vaga.
+Em primeiro lugar, devemos reconhecer que na maior parte do tempo motivações de curto prazo possuem um peso muito maior na vida das pessoas do que considerações de longo - especialmente quando há uma percepção de insegurança sobre perspectivas ou projeções de longo prazo, como frequentemente há em crises (conjunturais ou pessoais). Isso incentiva, de modo totalmente compreensível, um "lance" abaixo do preço de mercado, talvez até predatório, do candidato para garantir a vaga. "Ter um trabalho", afinal, "Ter um trabalho que pague adequadamente".
 
 A percepção de que isso se reverterá em lucro para o empregador é ilusória. O selecionado já entra no posto de trabalho com a mentalidade "OK, a situação é temporária e apenas para assegurar a vaga: a negociação de verdade começa agora". 
 
@@ -36,5 +36,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzOTA1MDQxXX0=
+eyJoaXN0b3J5IjpbMTU3OTU0ODYxMF19
 -->
