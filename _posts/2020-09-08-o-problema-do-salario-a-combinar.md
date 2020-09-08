@@ -9,11 +9,11 @@ Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propo
 
 Por um lado, defensores da livre concorrência e puristas do livre mercado argumentam que as empresas *são livres para jogar com as cartas que possuem* - e que ninguém teria direito de exigir nada de quem está ofertando livremente algo, senão aceitar os termos ou deixar passar. Além disso, alegam que quanto maior a liberdade das empresas para ofertar livremente, mais postos de trabalho surgirão - e, vejam, eles estão certos em ambos os argumentos.
 
-Do outro lado, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Elas também têm razão: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não. Pelo mesmo motivo que elaboramos acima, asessoas são livres para fazer os julgamentos morais.
+Do outro lado, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Elas também têm razão: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não. Pelo mesmo motivo que elaboramos acima, podemos defender que as pessoas são livres para elaborar as suas percepções subjetivas.
 
-Os dois lados possuem alguma razão.
+Os dois lados possuem alguma razão. O fato - inegável, aliás - de que uma empresa é livre para ofertar o que bem entender no mercado de trabalho, desde que o objeto seja lícito, não se põe em discussão. E, de um ponto de vista econômico, principalmente amparado em princípios liberais, seria fácil expor um sólido caso de porque tal direito deve ser preservado. 
 
-O fato - inegável, aliás - de que uma empresa é livre para ofertar o que bem entender no mercado de trabalho, desde que o objeto seja lícito, não se põe em discussão. E, de um ponto de vista econômico, principalmente amparado em princípios liberais, seria fácil expor um sólido caso de porque tal direito deve ser preservado. Irei, portanto, pelo lado oposto.
+Mas irei pelo lado oposto. Existem fortes motivos pragmátipara condenar o "salário: a combinar".
 
 O empregador naturalmente já possui maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita, ou de alguma forma pressionada. Ou seja, possui incentivos negativos para concordar com os termos apresentados, mesmo que não sejam ideais. Isso é natural, e dado pela própria natureza do mercado de trabalho. É de se esperar que esse "peso negativo" dos incentivos, então, seja descontado de um "preço de equilíbrio" hipotético (supondo igual poder na negociação) na formação do preço da mão-de-obra.
 
@@ -36,5 +36,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDUzMDM3OF19
+eyJoaXN0b3J5IjpbNzc2MTA3OTQyXX0=
 -->
