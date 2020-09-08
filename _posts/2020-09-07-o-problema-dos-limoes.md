@@ -61,12 +61,12 @@ Um purista do livre-mercado (e há algumas correntes de pensamento na economia h
 
 Vimos no primeiro exemplo (o dos carros) que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele devesse interferir. Uma lei que garantisse aos compradores de carros ruins devolver os carros em até uma semana sem necessidade de maiores justificativas, caso estivessem insatisfeitos com o negócio, poderia desmotivar mentirosos a entrar no mercado, salvando-o da ruína.
 
-Mas no segundo exemplo vimos que foi exatamente a interferência desastra
+Mas no segundo exemplo (dos seguros) vimos que foi exatamente a interferência desastrada, pouco hábil, que arruinou um mercado funcional.
 
-Entender a mecânica dos filtros de seleção adversa e como eles são gerados pela assimetria informacional ajuda a prever o resultado prático de legislações restritivas, o que será obtido de fato por regulamentações alegadamente samaritanas. Também ajuda a prever qual deve ser o papel da boa lei ou da boa intervenção judicial, para auxiliar no processo de mútua revelação de informações, diminuindo o custo de insegurança inerente a certos tipos de negociação, permitindo que surja bem-estar em situações que, se não fosse facilitada a troca informacional por um agente externo, seriam estéreis.
+Entender a mecânica dos filtros de seleção adversa e como eles são gerados pela assimetria informacional ajuda a prever o resultado prático de legislações restritivas, o que será obtido de fato por regulamentações alegadamente samaritanas. Também ajuda a prever qual deve ser o papel da boa lei ou da boa intervenção judicial, para auxiliar no processo de mútua revelação de informações, diminuindo o custo de insegurança inerente a certos tipos de negociação, permitindo que surja bem-estar em situações que, se não fosse facilitada a troca informacional por um agente externo - ou os efeitos perversos da assimetria compensados de outra forma - seriam estéreis.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NDY5MjgsLTEzMDMzMTY5MzIsNTk3ND
-Y1MDAzLC0xNjE4Mzk5ODMzXX0=
+eyJoaXN0b3J5IjpbLTc1ODA5NTQyNiwtMTMwMzMxNjkzMiw1OT
+c0NjUwMDMsLTE2MTgzOTk4MzNdfQ==
 -->
