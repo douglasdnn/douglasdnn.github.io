@@ -5,9 +5,9 @@ categories: economia
 image: "/assets/article_images/leilao.png"
 published: false
 ---
-Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego - é normal que reclamem de uma certa percepção de *deslealdade*, como se o empregador ou ofertante estivesse abusando de sua posição de *market maker*. Elas têm alguma razão, aliás: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não.
+Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego - é normal que reclamem de uma certa percepção de *deslealdade*, como se o empregador ou ofertante estivesse abusando de sua posição de *market maker*. 
 
-De toda forma, a questão é interessante e polêmica. Por um lado, defensores da livre concorrência argumentam que as empresas são livres para jogar com as cartas que possuem - e que ninguém teria direito de exigir nada de quem está ofertando livremente algo, senão aceitar os termos ou deixar passar. De outro, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Os dois lados possuem alguma razão.
+Elas têm alguma razão, aliás: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não. De toda forma, a questão é interessante e polêmica: or um lado, defensores da livre concorrência argumentam que as empresas são livres para jogar com as cartas que possuem - e que ninguém teria direito de exigir nada de quem está ofertando livremente algo, senão aceitar os termos ou deixar passar. De outro, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Os dois lados possuem alguma razão.
 
 O fato - inegável, aliás - de que uma empresa é livre para ofertar o que bem entender no mercado de trabalho, desde que o objeto seja lícito, não se põe em discussão. E, de um ponto de vista econômico, principalmente amparado em princípios liberais, seria fácil expor um sólido caso de porque tal direito deve ser preservado. Irei, portanto, pelo lado oposto.
 
@@ -23,7 +23,8 @@ Se ele consegue equalizar o salário (ou seja: descontar a situação de inferio
 
 Temos aí um empregado desmotivado, pensando no curto prazo, considerando pular fora assim que entrou - e não devemos julgar esse comportamento senão como um *lance racional* em um jogo que ele estava *jogando com poucas cartas*. Considerações morais, aqui, ficam atrás do fato de que este é um comportamento **esperado** e **selecionado**. 
 
-O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportunidades que têm à mão, e preenchem suas necessidades em uma ordem onde a sobrevivência se impõe sobre o conforto ou mesmo a 
+O fato é: quando deixamos as pessoas com poucas opções, elas usam as oportunidades que têm à mão, e preenchem suas necessidades em uma ordem onde a sobrevivência - comer, alimentar os filhos, pagar os boletos - claramente se impõe ao bom e transparente relacionamento com colegas, chefia e empresa.
+
   
 A receita ideal para perder colaboradores com potencial, um filtro de retenção de pessoas sem potencial.
 
@@ -31,5 +32,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTg3MjUwN119
+eyJoaXN0b3J5IjpbMjUxODE5NDk2XX0=
 -->
