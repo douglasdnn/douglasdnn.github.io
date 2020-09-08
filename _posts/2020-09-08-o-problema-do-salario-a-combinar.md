@@ -7,7 +7,11 @@ published: false
 ---
 Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego - é normal que reclamem de uma certa percepção de *deslealdade*, como se o empregador ou ofertante estivesse abusando de sua posição de *market maker*. 
 
-Elas têm alguma razão, aliás: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não. De toda forma, a questão é interessante e polêmica: or um lado, defensores da livre concorrência argumentam que as empresas são livres para jogar com as cartas que possuem - e que ninguém teria direito de exigir nada de quem está ofertando livremente algo, senão aceitar os termos ou deixar passar. De outro, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Os dois lados possuem alguma razão.
+Elas têm alguma razão, aliás: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não. De toda forma, a questão é interessante e polêmica.
+
+Por um lado, defensores da livre concorrência e puristas do livre mercado argumentam que as empresas *são livres para jogar com as cartas que possuem* - e que ninguém teria direito de exigir nada de quem está ofertando livremente algo, senão aceitar os termos ou deixar passar. Além disso, alegam que quanto maior a liberdade das empresas para ofertar livremente, mais postos de trabalho surgirão - e também estão certos nisso.
+
+De outro, candidatos reclamam de uma postura que não se alinha com uma busca de colaboração entre empregador ou empregado, mas revela uma postura adversarial, não mutualista. Os dois lados possuem alguma razão.
 
 O fato - inegável, aliás - de que uma empresa é livre para ofertar o que bem entender no mercado de trabalho, desde que o objeto seja lícito, não se põe em discussão. E, de um ponto de vista econômico, principalmente amparado em princípios liberais, seria fácil expor um sólido caso de porque tal direito deve ser preservado. Irei, portanto, pelo lado oposto.
 
@@ -32,5 +36,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxODE5NDk2XX0=
+eyJoaXN0b3J5IjpbLTEwNTAzODc0MTZdfQ==
 -->
