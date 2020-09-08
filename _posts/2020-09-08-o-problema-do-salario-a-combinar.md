@@ -33,15 +33,13 @@ Os casos mais extremos envolvem a busca de poder de barganha para novos *rounds*
 
 Em terceiro lugar, isso aumenta a rotatividade - um funcionário que aceita uma oferta de emprego pressionado por um leilão a aceitar um salário abaixo do que normalmente aceitaria é, por natureza, temporário. Isso impõe custos - como o custo de uma nova seleção, de um novo treinamento, e de reposição do conhecimento e ideias- e talvez contatos, colegas e clientes - que ele leva embora.
 
-Quarto, um leilão de salários é a receita ideal para perder colaboradores com maior potencial, se constituindo em um filtro de retenção de pessoas com menores ambições, menor motivação e menores capacidades. Um leilão de preços envolvendo bons candidatos - com preço naturalmente maior - e candidatos ruins - com preço naturalmente menor - cria uma
-
-Sobre isso, recomendo o meu texto anterior sobre o problema dos limões, que retrata este exato problema em outros contextos.
+Quarto, um leilão de salários é a receita ideal para perder colaboradores com maior potencial, se constituindo em um filtro de retenção de pessoas com menores ambições, menor motivação e menores capacidades. Um leilão de preços envolvendo bons candidatos - com preço naturalmente maior - e candidatos ruins - com preço naturalmente menor - cria um preço médio que é compensador para estes e ruim para aqueles. Quando a oferta é clara, este efeito não ocorre - e, de fato, o intimidado pode ser justamente o candidato com menor potencial. Sobre isso, recomendo o meu texto anterior sobre [o problema dos limões](https://douglasdnn.github.io/economia/2020/09/07/o-problema-dos-limoes.html), que retrata este exato problema em outros contextos.
 
 Quinto, a cada visualização de um claro leilão de salários, uma pessoa a mais que olha o seu anúncio e pensa o pior da sua marca.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDIyNzcwMjMsLTIwODIwNTU5NDUsLT
-IwNTQ3MzA1NzJdfQ==
+eyJoaXN0b3J5IjpbMjA0MTIzMTkwLC0yMDgyMDU1OTQ1LC0yMD
+U0NzMwNTcyXX0=
 -->
