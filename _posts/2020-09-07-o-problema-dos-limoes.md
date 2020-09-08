@@ -8,7 +8,7 @@ Vamos supor que, neste mercado, há um número igual de vendedores mentirosos e 
 
 E vamos supor, também, que você, o pobre comprador, **seja um completo leigo em mecânica.** Você pode avaliar externamente o carro, mas terá que confiar na palavra do vendedor no que diz respeito à mecânica. Em termos econômicos, *há uma grande **assimetria de informação** entre você e o seu parceiro de negócio (que sabe mais do que você sobre a realidade do produto)*.
 
-Vamos ignorar por um momento a sua decisão (que é assunto para teoria dos jogos), e olhar a estrutura deste mercado – que, por si só, acarreta em uma série de interessantes consequências. É possível, de antemão, prever uma tendência auto-destrutiva deste mercado, gerada pela simples assimetria de informações (um dos lados possui muito mais informação do que o outro. No caso, o vendedor).
+Vamos ignorar por um momento a sua decisão (que é assunto para *teoria dos jogos*), e olhar a estrutura deste mercado – que, por si só, acarreta em uma série de interessantes consequências. É possível, de antemão, prever uma tendência auto-destrutiva deste mercado, gerada pela simples assimetria de informação.
 
 Vamos supor que o preço de um carro usado bom neste mercado é de U$ 10.000,00. Para quem tem um carro bom, vale a pena vender por qualquer valor igual ou superior a U$ 10.000,00, e para qualquer valor abaixo disso, não vale a pena vendê-lo.
 
@@ -22,7 +22,7 @@ O problema é que isso é um mau negócio para quem colocou à venda um carro bo
 
 É isto que chamamos de um filtro de seleção adversa: um filtro que funciona de maneira inversa à que desejamos, que retém o que é bom e permite a passagem só do que é ruim.
 
-Este problema, apresentado acima, é conhecido como o problema dos limões, em referência ao apelido que os americanos dão aos carros usados que se provam maus negócios para o comprador (“lemons“), e prova como nem sempre “esconder o jogo” para quem tem informações privilegiadas é uma estratégia inteligente: pode, isso sim, destruir a base de confiança de um mercado e inviabilizar qualquer negócio.
+Este problema, apresentado acima, é conhecido como o problema dos limões, em referência ao apelido que os americanos dão aos carros usados que se provam maus negócios para o comprador (“*lemons*“), e prova como nem sempre “esconder o jogo” para quem tem informações privilegiadas é uma estratégia inteligente: pode, isso sim, destruir a base de confiança de um mercado e inviabilizar qualquer negócio. O problema foi identificado e exposto por George Akerloff no seu famoso artigo de 
 
 Vamos ver como isso funciona em um exemplo de nossa realidade nacional: planos de saúde.
 
@@ -43,5 +43,5 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgzNjg5OThdfQ==
+eyJoaXN0b3J5IjpbMjExNjQ1NDM4OV19
 -->
