@@ -7,7 +7,7 @@ published: false
 ---
 Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego - é normal que reclamem de uma certa percepção de *deslealdade*, como se o empregador ou ofertante estivesse abusando de sua posição de *market maker*. Elas têm alguma razão, aliás: normalmente, sentimentos e impressões não são algo a se contestar, são dados úteis sobre como somos vistos, concordemos ou não.
 
-De toda forma, 
+De toda forma, a questão é interessante e polêmica. Por um lado, defensores da livre concorrência argumentam que as empresas são livres para jogar com as cartas que possuem - e que ninguém teria direito de e
 
 O empregador naturalmente já possui muito maior poder de barganha em uma negociação - afinal, a outra parte se supõe desempregada ou insatisfeita. A tática de manter uma assimetria de informação forçada a beneficia ainda mais. Principalmente em momentos de crise ou em mercados saturados, a tendência é sempre um "lance" abaixo do mercado, talvez até predatório, do candidato para garantir a vaga.
 
@@ -23,5 +23,5 @@ E, a cada visualização, uma pessoa a mais que olha o seu anúncio e pensa o pi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3OTk4NzI2XX0=
+eyJoaXN0b3J5IjpbLTEwNzY1NTQ0MTRdfQ==
 -->
