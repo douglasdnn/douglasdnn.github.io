@@ -3,7 +3,7 @@ layout: post
 title:  "O Problema do 'Salário a Combinar'"
 categories: economia
 image: "/assets/article_images/leilao.png"
-published: false
+published: true
 ---
 Estou vendo muitas pessoas reclamarem do famoso "salário: a combinar" nas propostas de emprego - é normal que reclamem de uma certa percepção de *deslealdade*, como se o empregador ou ofertante estivesse abusando de sua posição de *market maker*. A questão é interessante e polêmica.
 
@@ -35,11 +35,11 @@ Em terceiro lugar, isso aumenta a rotatividade - um funcionário que aceita uma 
 
 Quarto, um leilão de salários é a receita ideal para perder colaboradores com maior potencial, se constituindo em um filtro de retenção de pessoas com menores ambições, menor motivação e menores capacidades. Um leilão de preços envolvendo bons candidatos - com preço naturalmente maior - e candidatos ruins - com preço naturalmente menor - cria um preço médio que é compensador para estes e ruim para aqueles. Quando a oferta é clara, este efeito não ocorre - e, de fato, o intimidado pode ser justamente o candidato com menor potencial. Sobre isso, recomendo o meu texto anterior sobre [o problema dos limões](https://douglasdnn.github.io/economia/2020/09/07/o-problema-dos-limoes.html), que retrata este exato problema em outros contextos.
 
-Quinto, a cada visualização de um claro leilão de salários, uma pessoa a mais que olha o seu anúncio e pensa o pior da sua marca.
+E, quinto: a cada visualização de um claro leilão de salários, uma pessoa a mais que olha o seu anúncio e pensa o pior da sua marca, deduzindo o funcionamento de seu negócio a partir de pequenos, mas claros sinais.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTIzMTkwLC0yMDgyMDU1OTQ1LC0yMD
-U0NzMwNTcyXX0=
+eyJoaXN0b3J5IjpbLTExMzQ0MjgyNzksLTIwODIwNTU5NDUsLT
+IwNTQ3MzA1NzJdfQ==
 -->
