@@ -63,13 +63,13 @@ A ação do Estado não é, por sua própria natureza, boa ou má. Nunca é muit
 
 Vimos no primeiro exemplo (o dos carros) que o mercado ruiu por sua própria estrutura, sem o Estado interferir - e talvez nesse caso ele *devesse* interferir. Por exemplo: uma lei que garantisse aos compradores de carros ruins devolver os carros em até uma semana sem necessidade de maiores justificativas, caso estivessem insatisfeitos com o negócio, poderia desmotivar mentirosos a entrar no mercado, salvando-o da ruína.
 
-Mas no segundo exemplo (dos seguros) vimos que foi exatamente a interferência desastrada, pouco hábil, que arruinou um mercado funcional. É muito comum, infelizmente, que políticos imponham custos a um mercado inteiro para dar um benefício a uma pequena parte - quase sempre, para tentar captá-los eleitoralmente. Essa parte, infelizmente, quase nunca percebe que está serra
+Mas no segundo exemplo (dos seguros) vimos que foi exatamente a interferência desastrada, pouco hábil, que arruinou um mercado funcional. É muito comum, infelizmente, que políticos imponham custos a um mercado inteiro para dar um benefício a uma pequena parte - quase sempre, para tentar captá-los eleitoralmente. Essa parte, infelizmente, por desconhecimento ou incapacidade de ver o quadro mais amplo, pensa nos *benefícios de curto prazo* e quase nunca percebe que, no longo, está serrando o galho onde está sentada.
 
 Entender a mecânica dos filtros de seleção adversa e como eles são gerados pela assimetria informacional ajuda a prever o resultado prático de legislações restritivas, o que será obtido de fato por regulamentações alegadamente samaritanas. Também ajuda a prever qual deve ser o papel da boa lei ou da boa intervenção judicial, para auxiliar no processo de mútua revelação de informações, diminuindo o custo de insegurança inerente a certos tipos de negociação, permitindo que surja bem-estar em situações que, se não fosse facilitada a troca informacional por um agente externo - ou os efeitos perversos da assimetria compensados de outra forma - seriam estéreis.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTM5NTc3MiwtMTYwNzY2NTI4OSwtNz
+eyJoaXN0b3J5IjpbLTkxMzQ2ODE4NCwtMTYwNzY2NTI4OSwtNz
 U4MDk1NDI2LC0xMzAzMzE2OTMyLDU5NzQ2NTAwMywtMTYxODM5
 OTgzM119
 -->
