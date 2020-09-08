@@ -26,9 +26,13 @@ O problema é que somente os vendedores detém esta informação: o comprador n�
 
 Sendo o mercado um só, com todos os produtos misturados e aparentemente indistinguíveis, sabemos duas coisas: o preço dos carros bons puxa o preço médio para cima, em direção aos U$ 10.000,00, e o preço dos carros ruins puxa o preço médio para baixo, em direção aos U$ 5.000,00. O preço, como consequência, deve estabilizar em um valor médio de U$ 7.500,00, que é o quanto os consumidores, às cegas, passam a pagar em média.
 
-O problema é que isso é um mau negócio para quem colocou à venda um carro bom (pois perde U$ 2.500,00), e um excelente negócio para quem colocou à venda um carro ruim (pois ganha U$ 2.500,00). Assim, quem tem carros bons à venda os retira do mercado (vale mais a pena guardá-los), e quem tem carros ruins guardados, os coloca à venda. Ou seja, o universo de bens à venda, para o consumidor, é pior na segunda iteração. E pior ainda na terceira. E mais ainda na quarta… e assim, até que o consumidor tenha a virtual certeza de que não há mais carros bons à venda.
+O problema é que isso é um mau negócio para quem colocou à venda um carro bom (pois perde U$ 2.500,00), e um excelente negócio para quem colocou à venda um carro ruim (pois ganha U$ 2.500,00). **Assim, quem tem carros bons à venda os retira do mercado** (vale mais a pena guardá-los), **e quem tem carros ruins guardados, os coloca à venda**. 
+
+Ou seja, o universo de bens à venda, para o consumidor, é pior na segunda iteração. E pior ainda na terceira. E mais ainda na quarta… e assim, até que o consumidor tenha a virtual certeza de que não há mais carros bons à venda.
 
 É isto que chamamos de um filtro de seleção adversa: um filtro que funciona de maneira inversa à que desejamos, que retém o que é bom e permite a passagem só do que é ruim.
+
+No limite, na iteração n, ninguém faz mais negócio: todos sabem que carro nenhum vale o se
 
 Este problema, apresentado acima, é conhecido como o problema dos limões, em referência ao apelido que os americanos dão aos carros usados que se provam maus negócios para o comprador (“*lemons*“), e prova como nem sempre “esconder o jogo” para quem tem informações privilegiadas é uma estratégia inteligente: pode, isso sim, destruir a base de confiança de um mercado e inviabilizar qualquer negócio. O problema foi identificado e exposto por George Akerlof no seu [famoso artigo de 1970](http://www.sfu.ca/~wainwrig/Econ400/akerlof.pdf) (*Akerlof, George A. "***The market for “lemons”: Quality uncertainty and the market mechanism***." The Quarterly Journal of Economics,  Volume 84, Issue 3 (Aug., 1970), 488-500).*
 
@@ -57,6 +61,6 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMzMTY5MzIsNTk3NDY1MDAzLC0xNj
-E4Mzk5ODMzXX0=
+eyJoaXN0b3J5IjpbNjU1ODE3MDA1LC0xMzAzMzE2OTMyLDU5Nz
+Q2NTAwMywtMTYxODM5OTgzM119
 -->
