@@ -2,7 +2,7 @@
 layout: post
 title:  "O Problema dos Limões"
 categories: economia
-image: "https://steemitimages.com/p/4PYjjVwJ1UdtK9g3KMeuiL3kBJmEdpdRwv2jeZoRxXzHtrrSfabPbdW8WwLRPzRbGYryY3u6B3gyS4an7oX4Br19Jq17LoykNWKN9RYvjHg?format=match&mode=fit&width=640"
+image: "https://www.ageas.co.uk/globalassets/solved/reliable-used-cars-corrected.jpg"
 published: true
 ---
 
@@ -69,7 +69,7 @@ Entender a mecânica dos filtros de seleção adversa e como eles são gerados p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MTMxNDEwLC0xNjA3NjY1Mjg5LC03NT
-gwOTU0MjYsLTEzMDMzMTY5MzIsNTk3NDY1MDAzLC0xNjE4Mzk5
-ODMzXX0=
+eyJoaXN0b3J5IjpbLTE1NzkyMDE0NzgsOTQ3MTMxNDEwLC0xNj
+A3NjY1Mjg5LC03NTgwOTU0MjYsLTEzMDMzMTY5MzIsNTk3NDY1
+MDAzLC0xNjE4Mzk5ODMzXX0=
 -->
