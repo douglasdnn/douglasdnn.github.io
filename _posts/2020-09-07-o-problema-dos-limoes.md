@@ -2,7 +2,7 @@
 layout: post
 title:  "O Problema dos Limões"
 categories: economia
-image: "https://www.ageas.co.uk/globalassets/solved/reliable-used-cars-corrected.jpg"
+image: "/assets/article_images/limoes.jpg"
 published: true
 ---
 
