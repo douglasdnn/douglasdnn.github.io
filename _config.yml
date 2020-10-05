@@ -6,7 +6,7 @@ plugins:
 # Site settings
 title: "Douglas Donin"
 description: > # this means to ignore newlines until "email:"
-   Direito, Tecnologia e bem mais.
+   Direito e Tecnologia
 
 email: douglasdnn@gmail.com
 #blog logo
