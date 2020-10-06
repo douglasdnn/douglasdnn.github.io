@@ -18,7 +18,7 @@ cover: "/assets/images/399260.jpg"
 
 name: 'Douglas Donin'
 author: 'Douglas Donin'
-author_image: "/assets/images/author2.jpg"
+author_image: "/assets/images/author2.jpg" 
 
 paginate:	5
 
