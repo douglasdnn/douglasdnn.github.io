@@ -6,7 +6,7 @@ plugins:
 # Site settings
 title: "Douglas Donin"
 description: > # this means to ignore newlines until "email:"
-   Direito e Tecnologia
+   Advogado e pesquisador na área de Direito, Tecnologia e Economia Comportamental
 
 email: douglasdnn@gmail.com
 #blog logo
@@ -18,7 +18,7 @@ cover: "/assets/images/399260.jpg"
 
 name: 'Douglas Donin'
 author: 'Douglas Donin'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author2.jpg"
 
 paginate:	5
 
