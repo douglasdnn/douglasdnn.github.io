@@ -4,7 +4,7 @@ title: Douglas Donin
 permalink: /sobre/
 ---
 
-Douglas Oliveira Donin é Mestre em Direito, advogado, desenvolvedor de sistemas de informática e pesquisador na área de Direito da Tecnologia.
+Douglas Oliveira Donin é Advogado em Porto Alegre-RS e pesquisador na área de Direito, Tecnologia e Economia Comportamental.
 
 # Formação: 
 
