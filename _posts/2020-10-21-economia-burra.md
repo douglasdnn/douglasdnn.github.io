@@ -38,20 +38,13 @@ O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais
 
 Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela **escala dos valores envolvidos** nas alterações introduzidas em toda sociedade (ainda mais se falamos de um assessor estadual, ou federal) por uma lei, ou pela **escala dos valores envolvidos** nos gastos públicos daquele ente federativo, podemos supor que **só é eficientemente econômica a dispensa desse assessor** se, e unicamente se, cumulativamente:
 
- 1. Não há a possibilidade de se rever e otimizar economicamente as leis
-    existentes a que estão submetidos toda a população e território que
-    tais atingem, na ordem total de S reais mensais (onde S é o valor do
-    salário ou custo mensal do assessor).
- 2. Não há a possibilidade de se introduzir novas leis capazes de
-    promover eficiência econômica em toda a população e território que
-    atingem, na ordem total de S reais mensais (onde S é o valor do
-    salário ou custo mensal do assessor).
+ 1. Não há a possibilidade de se rever e otimizar economicamente as leis existentes a que estão submetidos toda a população e território que tais atingem, na ordem total de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
+ 2. Não há a possibilidade de se introduzir novas leis capazes de promover eficiência econômica em toda a população e território que atingem, na ordem total de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
+ 3. Não há a possibilidade de se otimizar economicamente os gastos públicos totais do poder executivo fiscalizado, na ordem de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
 
-Não há a possibilidade de se otimizar economicamente os gastos públicos totais do poder executivo fiscalizado, na ordem de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
+Apenas na ocorrência cumulada destas três situações o assessor não "se paga".
 
-Apenas na ocorrência cumulada destas três situações o "assessor" não se paga.
-
-Ora, aqui, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que há enorme desperdício nos gastos públicos, que há leis demais atrapalhando o cidadão, que é preciso de leis que desburocratizem ou desatravanquem o processo produtivo. Assim, dado que seus discursos contradizem 
+Ora, aqui, vejamos, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que **há enorme desperdício nos gastos públicos**, que **há leis demais atrapalhando o cidadão**, que **é preciso de leis que desburocratizem ou desatravanquem o processo produtivo**. Assim, dado que seus discursos contradizem as três condições cumulativas 
 
 
 
@@ -62,8 +55,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODkwODAwLDEzNTk4MTczMzEsLTk1OD
-AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
-MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
-==
+eyJoaXN0b3J5IjpbLTE1OTYzNTY5MiwxMzU5ODE3MzMxLC05NT
+gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
+NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
+0=
 -->
