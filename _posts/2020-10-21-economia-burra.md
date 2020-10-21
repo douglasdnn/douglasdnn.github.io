@@ -9,7 +9,9 @@ published: true
 ---
 Há uma crescente preocupação das campanhas políticas, nos últimos anos, em festejar a "economia de gastos de gabinete" ou de verbas parlamentares. Não são poucos os que ostentam que "gastaram zero reais da verba de gabinete", ou "contratei menos da metade dos assessores a que tinha direito".
 
-Em qualquer dicionário que se olhe, são comportamentos sinônimos do mal que chamamos de **economia burra** - ou, ao menos, de declarada e assumida **opção consciente pela ineficiência econômica**. Entende-se, óbvio, o apelo populista, voltado ao eleitor leigo, principalmente, por existir um claro aproveitamento da onda antipolítica que varreu o Brasil depois de 2013 (onde tudo o que diz respeito à política é criminalizado, tornado imoral), mas o fato é que se trata de demagogia, sobretudo, se vindo de candidatos e partidos que prometem priorizar a "racionalidade econômica", de quem não se pode supor simples ignorância sobre a ciência que afirmam dominar.
+Em qualquer dicionário que se olhe, são comportamentos sinônimos do mal que chamamos de **economia burra** - ou, ao menos, de declarada e assumida **opção consciente pela ineficiência econômica**. 
+
+Entende-se, óbvio, o apelo populista, voltado ao eleitor leigo, principalmente, por existir um claro aproveitamento da onda antipolítica que varreu o Brasil depois de 2013 (onde tudo o que diz respeito à política é criminalizado, tornado imoral), mas o fato é que se trata de demagogia, sobretudo, se vindo de candidatos e partidos que prometem priorizar a "racionalidade econômica", de quem não se pode supor simples ignorância sobre a ciência que afirmam dominar.
 
 Convém conceituar a "economia burra" - e o farei com um exemplo, real, particular.
 
@@ -59,7 +61,7 @@ Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTg5NzY2NSwxMzU5ODE3MzMxLC05NT
+eyJoaXN0b3J5IjpbMTU4MTUzNTg0NSwxMzU5ODE3MzMxLC05NT
 gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
 NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
 0=
