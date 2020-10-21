@@ -8,8 +8,9 @@ image: "https://www.infomoney.com.br/wp-content/uploads/2019/06/desperdicio-dinh
 published: false
 ---
 # Economia Burra
+Há uma crescente preocupação com as campanhas políticas, nos últimos anos, em 
 
-Toda campanha política 
+
 Para a economia, são fundamentais 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
@@ -17,6 +18,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc3MTg3OTIsLTg5MzM4ODQyMCwxOT
-UyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbODYwOTA5NTgwLC0xMDk3NzE4NzkyLC04OT
+MzODg0MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUz
+NjNdfQ==
 -->
