@@ -48,7 +48,9 @@ Ora, aqui, vejamos, temos uma contradição: tais candidatos e partidos, via de 
 
 Se, então, é certo empregar estes profissionais, por que não contratam? Por que então sustentam que estão fazendo economia? As respostas possíveis são:
 
-- Em toda a rede de contatos ou conhecidos, não conhecem ninguém capaz de realizar um trabalho de otimização sobre dezenas, centenas de milhões (às vezes bilhões) de reais que impacte, na qualidade do gasto, mais do que o próprio salário - o que depõe fcontra a qualidade técnica do material humano ao redor do parlamentar.
+- Em toda a rede de contatos ou conhecidos, não conhecem ninguém capaz de realizar um trabalho de otimização sobre dezenas, centenas de milhões (às vezes bilhões) de reais que impacte, na qualidade do gasto, mais do que o próprio salário - o que depõe fortemente contra a qualidade técnica do material humano ao redor do parlamentar.
+- Não entenderam a fórmula apresentada acima - o que depõe fortemente contra a qualidade técnica do parlamentar e deu seu grupo político.
+- A eficácia eleitoral do discurso traz proveito pessoal ao parlamentar eleito - o que im 
 
 
 
@@ -59,7 +61,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NzMwNjQsMTM1OTgxNzMzMSwtOTU4MD
-EyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4ODQy
-MCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTM2NTgyNTgyLDEzNTk4MTczMzEsLTk1OD
+AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
+MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
+==
 -->
