@@ -37,7 +37,10 @@ Um parlamentar é eleito para realizar dois trabalhos básicos: participar do pr
 
 O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais em capitais. Quando um parlamentar dispensa um assessor, ele está fazendo economia?
 
-Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela **escala dos valores envolvidos** nas alterações introduzidas em toda sociedade (ainda mais se falamos de um assessor estadual, ou federal) por uma lei, ou pela **escala dos valores envolvidos** nos gastos públicos daquele ente federativo, podemos supor que só é eficientemente econômica a 
+Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela **escala dos valores envolvidos** nas alterações introduzidas em toda sociedade (ainda mais se falamos de um assessor estadual, ou federal) por uma lei, ou pela **escala dos valores envolvidos** nos gastos públicos daquele ente federativo, podemos supor que **só é eficientemente econômica a dispensa desse assessor** se, e unicamente se, cumulativamente:
+
+- Não há a possibilidade de se otimizar economicamente as leis, na ordem de X 
+- Os gastos 
 
 
 
@@ -47,8 +50,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzkyNjM5MSwxMzU5ODE3MzMxLC05NT
-gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
-NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
-0=
+eyJoaXN0b3J5IjpbLTIxMDEyNTQxNjEsMTM1OTgxNzMzMSwtOT
+U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
+ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
+19
 -->
