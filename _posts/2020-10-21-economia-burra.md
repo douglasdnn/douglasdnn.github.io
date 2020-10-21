@@ -37,7 +37,7 @@ Um parlamentar é eleito para realizar dois trabalhos básicos: participar do pr
 
 O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais em capitais. Quando um parlamentar dispensa um assessor, ele está fazendo economia?
 
-Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela escala dos valores envolvidos no 
+Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela **escala dos valores envolvidos** nas alterações introduzidas em toda sociedade (ainda mais se falamos de um por uma lei, ou 
 
 
 
@@ -47,7 +47,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTgxNzMzMSwtOTU4MDEyMDUzLC0yOD
-I4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4ODQyMCwxOTUyOTYz
-NzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTQxNTIyNTE3OSwxMzU5ODE3MzMxLC05NT
+gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
+NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
+0=
 -->
