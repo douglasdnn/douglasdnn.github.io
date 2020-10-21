@@ -46,7 +46,7 @@ Bem, supomos que o assessor está empregado no fim a que se destina (o assessora
 
 Apenas na ocorrência cumulada destas três situações o assessor não "se paga".
 
-Ora, aqui, vejamos, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que **há enorme desperdício nos gastos públicos**, que **há leis demais atrapalhando o cidadão**, que **é preciso de leis que desburocratizem ou desatravanquem o processo produtivo**. Assim, dado que seus discursos contradizem as três condições cumulativas acima, vemos que é eficiente, do ponto de vista público, empregar um assessor naquelas funções - e, por experiência própria dentro de poderes legislativos, devo dizer que dificilmente um assessor *medianamente motivado*, com *conhecimento apenas mediano*, efetivamente trabalhando com processo legislativo ou fiscalizando o Executivo, já não paga todos os seus futuros trabalhos logo no primeiro mês - às vezes com uma única ação, uma única olhada em um único contrato.
+Ora, aqui, vejamos, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que **há enorme desperdício nos gastos públicos**, que **há leis demais atrapalhando o cidadão**, que **é preciso leis que desburocratizem ou desatravanquem o processo produtivo**. Assim, dado que seus discursos contradizem as três condições cumulativas acima, vemos que é eficiente, do ponto de vista público, empregar um assessor naquelas funções - e, por experiência própria dentro de poderes legislativos, devo dizer que dificilmente um assessor *medianamente motivado*, com *conhecimento apenas mediano*, efetivamente trabalhando com processo legislativo ou fiscalizando o Executivo, já não paga todos os seus futuros trabalhos logo no primeiro mês - às vezes com uma única ação, uma única olhada em um único contrato.
 
 Se, então, é certo empregar estes profissionais, por que não contratam? Por que então sustentam que estão fazendo economia? As respostas possíveis são:
 
@@ -61,8 +61,8 @@ Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTM0NjgzLDEzNTk4MTczMzEsLTk1OD
-AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
-MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
-==
+eyJoaXN0b3J5IjpbLTEwOTIzNTA2NTQsMTM1OTgxNzMzMSwtOT
+U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
+ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
+19
 -->
