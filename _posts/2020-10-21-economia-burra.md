@@ -54,11 +54,13 @@ Se, então, é certo empregar estes profissionais, por que não contratam? Por q
  3. Se empregado, o parlamentar não seria utilizado com finalidade pública - o que depõe fortemente contra a qualidade moral de todos os envolvidos.
  4. A eficácia eleitoral do discurso traz proveito pessoal ao parlamentar eleito - o que impõe o sacrifício da eficiência pública associado. Em outras palavras, **o parlamentar escolhe um comportamento ineficiente, que traz prejuízo ao público, para que lucre privadamente, no âmbito eleitoral**, com isso. De certa forma, um exemplo enciclopédico de **demagogia**.
 
-Dado que 1 e 2 dependem de uma francamente impossível sincronia de ignorância em um grande número de envolvidos, e , ficamos com 4, onde pelo menos há uma razão coerente. Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos decididamente no âmbito da **economia perversa** (que se enquadra no estudo das **teorias da agência**, onde há desencontro entre os interesses de agentes e representados - decididamente assuntos para um texto mais longo). 
+Dado que 1 e 2 dependem de uma francamente impossível sincronia de ignorância em um grande número de envolvidos, e 3 é praticamente uma confissão de culpa, ficamos com 4, onde pelo menos há uma razão coerente. Não há razão econômica, dada a disponibilidade de profissionais no mercado, de, podendo, não se empregar alguém na otimização do sistema legislativo ou dos gatos públicos.
+
+Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos decididamente no âmbito da **economia perversa** (que se enquadra no estudo das **teorias da agência**, onde há desencontro entre os interesses de agentes e representados - decididamente assuntos para um texto mais longo). 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU2MjkwMjksMTM1OTgxNzMzMSwtOT
+eyJoaXN0b3J5IjpbLTEyNTQ4MzEzNjcsMTM1OTgxNzMzMSwtOT
 U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
 ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
 19
