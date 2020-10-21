@@ -3,6 +3,7 @@ layout: post
 title:  "Economia Burra"
 date:   2020-10-21 14:34:25
 categories: economics
+aut
 tags: featured
 image: "/assets/article_images/desperdicio-dinheiro.jpg"
 published: true
@@ -61,8 +62,8 @@ Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5ODM1OTE0LC01MzUwNTMzMzQsMTM1OT
-gxNzMzMSwtOTU4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3
-OTIsLTg5MzM4ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLT
-MzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTc4OTY0MTM4MiwzMTk4MzU5MTQsLTUzNT
+A1MzMzNCwxMzU5ODE3MzMxLC05NTgwMTIwNTMsLTI4MjgwMTAy
+NCwtMTA5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3MzAsMj
+A2NzI2Nzc3NiwtMzMyNDU1MzYzXX0=
 -->
