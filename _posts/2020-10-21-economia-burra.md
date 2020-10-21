@@ -27,19 +27,21 @@ O resultado não foi outro. Como os negociadores lidavam diretamente com diretor
 A economia conceitua a **eficiência** como *a possibilidade de se atingir o melhor resultado com o mínimo de erro ou desperdício*, e a **eficácia** como a *capacidade de produzir os efeitos desejados*. Podemos argumentar que, em um certo nível de análise, a medida foi eficaz: economizou a conta de telefone. Mas foi eficiente? E mais, foi eficaz, considerando a função da empresa como um todo?
 
 A **economia burra** é isso: a implementação de políticas ou ações cujo escopo restrito sugere eficácia, mas que ignora a eficiência econômica e a eficácia geral da operação. 
-Uma vez
 
-## O custo de um assessor
+Não é difícil relacionar isso ao discurso populista da "economia de gabinete".
+
+Um parlamentar é eleito para realizar dois trabalhos básicos: 
 
 
-Para a economia, são fundamentais 
+
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU0MTU5MjcsLTI4MjgwMTAyNCwtMT
-A5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3MzAsMjA2NzI2
-Nzc3NiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTk1ODAxMjA1MywtMjgyODAxMDI0LC0xMD
+k3NzE4NzkyLC04OTMzODg0MjAsMTk1Mjk2MzczMCwyMDY3MjY3
+Nzc2LC0zMzI0NTUzNjNdfQ==
 -->
