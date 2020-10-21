@@ -24,7 +24,7 @@ Entretanto, há um método de gerência, muito popular no Brasil, que estabelece
 
 O resultado não foi outro. Como os negociadores lidavam diretamente com diretores e executivos de grandes empresas, é normal que ligassem preponderantemente para celulares e para pessoas em trânsito constante entre várias filiais - ou que, mesmo estacionados em suas sedes, não estavam no Rio Grande do Sul. A consequência é que, de um mês para o outro, o volume recuperado de dívidas caiu na ordem de vários milhões mensais. Mas a conta telefônica, ah, a conta, veja bem, esta caiu em pouco mais de cem reais naquele setor. Eficiência!
 
-A economia conceitua a eficiência com a possibilidade de se atingir o melhor resultado com o mínimo de erro ou desperdício, ao passo que a eficácia diz respeito à capacidade de produzir os efeitos desejados.
+A economia conceitua a **eficiência** como *a possibilidade de se atingir o melhor resultado com o mínimo de erro ou desperdício*, e a **eficácia** como a *capacidade de produzir os efeitos desejados*. Podemos argumentar que, em um certo nível de análise, a medida foi eficaz: economizou a conta de telefone. Mas 
 
 Uma vez
 
@@ -38,7 +38,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzE1NjM4OSwtMjgyODAxMDI0LC0xMD
+eyJoaXN0b3J5IjpbMTQ4NzI0MzM2NywtMjgyODAxMDI0LC0xMD
 k3NzE4NzkyLC04OTMzODg0MjAsMTk1Mjk2MzczMCwyMDY3MjY3
 Nzc2LC0zMzI0NTUzNjNdfQ==
 -->
