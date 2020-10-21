@@ -35,7 +35,9 @@ Um parlamentar é eleito para realizar dois trabalhos básicos: participar do pr
 1 - Pela introdução (ou modificação) de regras (normas) que gerem impacto econômico na população sujeita a ela;
 2 - Pela intervenção economicamente eficiente nos gastos, contratos e ações do Poder Executivo.
 
-O salário de um assessor parlamentar, por exemplo, gira em torno de 
+O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais em capitais. Quando um parlamentar dispensa um assessor, ele está fazendo economia?
+
+Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela escala dos valores en
 
 
 
@@ -45,7 +47,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MzI5MTI3LC05NTgwMTIwNTMsLTI4Mj
-gwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3
-MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTExNzYwOTk2MzAsLTk1ODAxMjA1MywtMj
+gyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0MjAsMTk1Mjk2
+MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ==
 -->
