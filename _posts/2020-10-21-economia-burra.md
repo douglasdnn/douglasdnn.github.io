@@ -10,9 +10,13 @@ published: false
 # Economia Burra
 Há uma crescente preocupação das campanhas políticas, nos últimos anos, em festejar a "economia de gastos de gabinete" ou de verbas parlamentares. Não são poucos os que ostentam que "gastaram zero reais da verba de gabinete", ou "contratei menos da metade dos assessores a que tinha direito".
 
-Em qualquer dicionário que se olhe, são comportamentos sinônimos do mal que chamamos de **economia burra** - ou, ao menos, de declarada e assumida **opção consciente pela ineficiência econômica**. Entende-se, óbvio, o apelo populista, voltado ao eleitor leigo, principalmente, por existir um claro aproveitamento da onda antipolítica que varreu o Brasil depois de 2013 (onde tudo o que diz respeito à política é criminalizado, tornado imoral), mas o fato é que se trata de demagogia, sobretudo, se vindo de candidatos e partidos que prometem priorizar a "racionalid.
+Em qualquer dicionário que se olhe, são comportamentos sinônimos do mal que chamamos de **economia burra** - ou, ao menos, de declarada e assumida **opção consciente pela ineficiência econômica**. Entende-se, óbvio, o apelo populista, voltado ao eleitor leigo, principalmente, por existir um claro aproveitamento da onda antipolítica que varreu o Brasil depois de 2013 (onde tudo o que diz respeito à política é criminalizado, tornado imoral), mas o fato é que se trata de demagogia, sobretudo, se vindo de candidatos e partidos que prometem priorizar a "racionalidade econômica", de quem não se pode supor simples ignorância sobre a ciência que afirmam dominar.
 
 ## O que é a "economia burra"?
+
+Convém conceituar a "economia burra" - e o farei com um exemplo, real, particular.
+
+Certa vez trabalhei em uma
 
 Uma vez
 
@@ -26,7 +30,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM5NzU5MDAsLTI4MjgwMTAyNCwtMT
-A5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3MzAsMjA2NzI2
-Nzc3NiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTkyNjM5MjA5OSwtMjgyODAxMDI0LC0xMD
+k3NzE4NzkyLC04OTMzODg0MjAsMTk1Mjk2MzczMCwyMDY3MjY3
+Nzc2LC0zMzI0NTUzNjNdfQ==
 -->
