@@ -31,8 +31,7 @@ Não é difícil relacionar isso ao discurso populista da "economia de gabinete"
 Um parlamentar é eleito para realizar dois trabalhos básicos: participar do processo de criação e votação de leis e fiscalização do Poder Executivo. Logo, seu trabalho possui impactos econômicos de duas formas:
 
  1. Pela introdução (ou modificação) de regras (normas) que gerem impacto econômico na população sujeita a ela; 
-
- 2. Pela intervenção  economicamente eficiente nos gastos, contratos e ações do Poder     Executivo.
+ 2. Pela intervenção  economicamente eficiente nos gastos, contratos e ações do Poder Executivo.
 
 O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais em capitais. Quando um parlamentar dispensa um assessor, ele está fazendo economia?
 
@@ -52,12 +51,12 @@ Se, então, é certo empregar estes profissionais, por que não contratam? Por q
  2. Não entenderam a fórmula apresentada acima - o que depõe fortemente contra a qualidade técnica do parlamentar e deu seu grupo político.    
  3. A eficácia eleitoral do discurso traz proveito pessoal ao parlamentar eleito - o que impõe o sacrifício da eficiência pública associado. Em outras palavras, **o parlamentar escolhe um comportamento ineficiente, que traz prejuízo ao público, para que lucre privadamente, no âmbito eleitoral**, com isso. De certa forma, um exemplo enciclopédico de **demagogia**.
 
-Dado que 1 e 2 dependem de uma francamente impossível sincronia de ignorância em um grande número de envolvidos, ficamos com 3, onde pelo menos há uma razão coerente. Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos decididamente no âmbito da **economia perversa**. 
+Dado que 1 e 2 dependem de uma francamente impossível sincronia de ignorância em um grande número de envolvidos, ficamos com 3, onde pelo menos há uma razão coerente. Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos decididamente no âmbito da **economia perversa** (que se enquadra no estudo das **teorias da agência**, onde há desencontro entre os interesses de agentes e representados - decididamente assuntos para um texto mais longo). 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMDI1ODg1LDEzNTk4MTczMzEsLTk1OD
-AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
-MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
-==
+eyJoaXN0b3J5IjpbLTE3MzQ1MjUwNzQsMTM1OTgxNzMzMSwtOT
+U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
+ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
+19
 -->
