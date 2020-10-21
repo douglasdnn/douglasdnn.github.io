@@ -4,7 +4,7 @@ title:  "Economia Burra"
 date:   2020-10-21 14:34:25
 categories: economics
 tags: featured
-image: "/assets/article_images/jpg/desperdicio-dinheiro.jpg"
+image: "/assets/article_images/desperdicio-dinheiro.jpg"
 published: true
 ---
 Há uma crescente preocupação das campanhas políticas, nos últimos anos, em festejar a "economia de gastos de gabinete" ou de verbas parlamentares. Não são poucos os que ostentam que "gastaram zero reais da verba de gabinete", ou "contratei menos da metade dos assessores a que tinha direito".
@@ -61,8 +61,8 @@ Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgzNTg2NjQsLTUzNTA1MzMzNCwxMz
-U5ODE3MzMxLC05NTgwMTIwNTMsLTI4MjgwMTAyNCwtMTA5Nzcx
-ODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3Ni
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMzE5ODM1OTE0LC01MzUwNTMzMzQsMTM1OT
+gxNzMzMSwtOTU4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3
+OTIsLTg5MzM4ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLT
+MzMjQ1NTM2M119
 -->
