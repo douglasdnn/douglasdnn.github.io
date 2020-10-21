@@ -16,7 +16,7 @@ Em qualquer dicionário que se olhe, são comportamentos sinônimos do mal que c
 
 Convém conceituar a "economia burra" - e o farei com um exemplo, real, particular.
 
-Certa vez trabalhei em uma
+Certa vez trabalhei em uma empresa que lidava com a recuperação de dívidas de grande montante - de milhões e milhões de reais. Basicamente, profissionais experientes, já no topo da carreira, compunham uma "mesa de negociação", um setor  .
 
 Uma vez
 
@@ -30,7 +30,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjM5MjA5OSwtMjgyODAxMDI0LC0xMD
-k3NzE4NzkyLC04OTMzODg0MjAsMTk1Mjk2MzczMCwyMDY3MjY3
-Nzc2LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNTI2MDYwMjg4LC0yODI4MDEwMjQsLTEwOT
+c3MTg3OTIsLTg5MzM4ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3
+NzYsLTMzMjQ1NTM2M119
 -->
