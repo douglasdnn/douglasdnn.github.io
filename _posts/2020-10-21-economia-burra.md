@@ -12,8 +12,6 @@ Há uma crescente preocupação das campanhas políticas, nos últimos anos, em 
 
 Em qualquer dicionário que se olhe, são comportamentos sinônimos do mal que chamamos de **economia burra** - ou, ao menos, de declarada e assumida **opção consciente pela ineficiência econômica**. Entende-se, óbvio, o apelo populista, voltado ao eleitor leigo, principalmente, por existir um claro aproveitamento da onda antipolítica que varreu o Brasil depois de 2013 (onde tudo o que diz respeito à política é criminalizado, tornado imoral), mas o fato é que se trata de demagogia, sobretudo, se vindo de candidatos e partidos que prometem priorizar a "racionalidade econômica", de quem não se pode supor simples ignorância sobre a ciência que afirmam dominar.
 
-## O que é a "economia burra"?
-
 Convém conceituar a "economia burra" - e o farei com um exemplo, real, particular.
 
 Certa vez trabalhei em uma empresa que lidava com a recuperação de dívidas de grande montante - de milhões e milhões de reais. Basicamente, profissionais experientes, já no topo da carreira, compunham uma "mesa de negociação", um setor onde, ativamente, ligavam para os clientes devedores (na maior parte do tempo donos ou diretores de empresas devedoras) e buscavam recuperar aquelas dívidas, dadas já como prejuízo contábil.
@@ -32,8 +30,10 @@ Não é difícil relacionar isso ao discurso populista da "economia de gabinete"
 
 Um parlamentar é eleito para realizar dois trabalhos básicos: participar do processo de criação e votação de leis e fiscalização do Poder Executivo. Logo, seu trabalho possui impactos econômicos de duas formas:
 
-1 - Pela introdução (ou modificação) de regras (normas) que gerem impacto econômico na população sujeita a ela;
-2 - Pela intervenção economicamente eficiente nos gastos, contratos e ações do Poder Executivo.
+ 1. 1 - Pela introdução (ou modificação) de regras (normas) que gerem
+    impacto econômico na população sujeita a ela; 2 - Pela intervenção
+    economicamente eficiente nos gastos, contratos e ações do Poder
+    Executivo.
 
 O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais em capitais. Quando um parlamentar dispensa um assessor, ele está fazendo economia?
 
@@ -45,7 +45,7 @@ Bem, supomos que o assessor está empregado no fim a que se destina (o assessora
 
 Apenas na ocorrência cumulada destas três situações o "assessor" não se paga.
 
-Ora, aqui, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que há enorme desperdício nos gastos públicos.
+Ora, aqui, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que há enorme desperdício nos gastos públicos, que há leis demais atrapalhando o cidadão, que é preciso de leis que desburocratizem ou desatravanquem o processo produtivo. Assim, dado que seus discursos contradizem 
 
 
 
@@ -56,7 +56,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA4MjE3NTUsMTM1OTgxNzMzMSwtOT
+eyJoaXN0b3J5IjpbLTE0ODI2NjM5ODEsMTM1OTgxNzMzMSwtOT
 U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
 ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
 19
