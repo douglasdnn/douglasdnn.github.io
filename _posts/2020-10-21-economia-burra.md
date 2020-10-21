@@ -44,7 +44,7 @@ Bem, supomos que o assessor está empregado no fim a que se destina (o assessora
 
 Apenas na ocorrência cumulada destas três situações o assessor não "se paga".
 
-Ora, aqui, vejamos, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que **há enorme desperdício nos gastos públicos**, que **há leis demais atrapalhando o cidadão**, que **é preciso de leis que desburocratizem ou desatravanquem o processo produtivo**. Assim, dado que seus discursos contradizem as três condições cumulativas 
+Ora, aqui, vejamos, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que **há enorme desperdício nos gastos públicos**, que **há leis demais atrapalhando o cidadão**, que **é preciso de leis que desburocratizem ou desatravanquem o processo produtivo**. Assim, dado que seus discursos contradizem as três condições cumulativas acima, vemos que é eficiente, do ponto de vista público, empregar um assessor naquelas funções - e, por experiência própria dentro de poderes legislativos, devo dizer que dificilmente um assessor *medianamente motivado*, com conhecimento mediano, 
 
 
 
@@ -55,7 +55,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYzNTY5MiwxMzU5ODE3MzMxLC05NT
+eyJoaXN0b3J5IjpbMTI0NDA2MzAwMywxMzU5ODE3MzMxLC05NT
 gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
 NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
 0=
