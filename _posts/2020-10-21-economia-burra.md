@@ -9,13 +9,14 @@ published: false
 ---
 # Economia Burra
 
-
+Toda campanha política 
+Para a economia, são fundamentais 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzM4ODQyMCwxOTUyOTYzNzMwLDIwNj
-cyNjc3NzYsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTEwOTc3MTg3OTIsLTg5MzM4ODQyMCwxOT
+UyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M119
 -->
