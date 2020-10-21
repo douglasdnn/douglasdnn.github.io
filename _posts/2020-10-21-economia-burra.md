@@ -50,21 +50,14 @@ Se, então, é certo empregar estes profissionais, por que não contratam? Por q
 
 - Em toda a rede de contatos ou conhecidos, não conhecem ninguém capaz de realizar um trabalho de otimização sobre dezenas, centenas de milhões (às vezes bilhões) de reais que impacte, na qualidade do gasto, mais do que o próprio salário - o que depõe fortemente contra a qualidade técnica do material humano ao redor do parlamentar.
 - Não entenderam a fórmula apresentada acima - o que depõe fortemente contra a qualidade técnica do parlamentar e deu seu grupo político.
-- A eficácia eleitoral do discurso traz proveito pessoal ao parlamentar eleito - o que impõe o sacrifício da eficiência pública associado. Em outras palavras, o parlamentar escolhe um comportamento ineficiente, que traz prejuízo ao público, para que lucre privadamente, no âmbito eleitoral, com isso.
+- A eficácia eleitoral do discurso traz proveito pessoal ao parlamentar eleito - o que impõe o sacrifício da eficiência pública associado. Em outras palavras, **o parlamentar escolhe um comportamento ineficiente, que traz prejuízo ao público, para que lucre privadamente, no âmbito eleitoral**, com isso. De cert
 
-Dado que 1 e 2 dependem de uma francamente impossível ausência 
-
-
+Dado que 1 e 2 dependem de uma francamente impossível sincronia de ignorância em um grande número de envolvidos, ficamos com 3, onde pelo menos há uma razão coerente. Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos decididamente no âmbito da **economia perversa**. 
 
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI2NzQ2MjMsMTM1OTgxNzMzMSwtOT
-U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
-ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
-19
+eyJoaXN0b3J5IjpbMTIyMzA5NDU3OCwxMzU5ODE3MzMxLC05NT
+gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
+NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
+0=
 -->
