@@ -27,7 +27,7 @@ A economia conceitua a **eficiência** como *a possibilidade de se atingir o mel
 
 A **economia burra** é isso: a implementação de políticas ou ações cujo escopo restrito sugere eficácia, mas que ignora a eficiência econômica e a eficácia geral da operação. Ou seja: economiza no micro, às custas de desperdício ou perda de eficiência no macro.
 
-Não é difícil relacionar isso ao discurso populista da "economia de gabinete". Para exemplificar, vamos analisar um dos custos de gabinete (análogo a todos os demais), frequentemente exibido como "prova" de bom trabalho: a dispensa do uso de assessores.
+Não é difícil relacionar isso ao discurso populista da "economia de gabinete". Para exemplificar, vamos analisar um dos custos de gabinete (análogo a todos os demais), frequentemente exibido como "prova" de bom trabalho: a **dispensa do uso de assessores**.
 
 Um parlamentar é eleito para realizar dois trabalhos básicos: participar do processo de criação e votação de leis e fiscalização do Poder Executivo. Logo, seu trabalho possui impactos econômicos de duas formas:
 
@@ -61,8 +61,8 @@ Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTUzNTg0NSwxMzU5ODE3MzMxLC05NT
-gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
-NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
-0=
+eyJoaXN0b3J5IjpbLTg5NTM0NjgzLDEzNTk4MTczMzEsLTk1OD
+AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
+MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
+==
 -->
