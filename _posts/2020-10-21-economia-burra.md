@@ -143,14 +143,14 @@ C --> D
 ```
 ---
 layout: post
-title:  "Dicas básicas para usar o Google Scholar"
+title:  "Economia Burra"
 date:   2020-08-12 14:34:25
 categories: economics
 tags: featured
-image: "https://blog.hotmart.com/blog/2019/11/26190735/BLOG_google-academico-670x419.png"
+image: "https://www.infomoney.com.br/wp-content/uploads/2019/06/desperdicio-dinheiro.jpg?fit=900%2C600&quality=75&strip=all"
 published: false
 ---
-# Dicas básicas para usar o Google Scholar
+# Economia Burra
 
 Estas são as dicas: 
 
@@ -169,6 +169,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbOTA0MjYxMDI5LDE5NTI5NjM3MzAsMjA2Nz
+I2Nzc3NiwtMzMyNDU1MzYzXX0=
 -->
