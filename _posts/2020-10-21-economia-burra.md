@@ -8,7 +8,9 @@ image: "https://www.infomoney.com.br/wp-content/uploads/2019/06/desperdicio-dinh
 published: false
 ---
 # Economia Burra
-Há uma crescente preocupação com as campanhas políticas, nos últimos anos, em 
+Há uma crescente preocupação das campanhas políticas, nos últimos anos, em festejar a "economia de gastos de gabinete" ou de verbas parlamentares. Não são poucos os que ostentam que "gastaram zero reais da verba de gabinete", ou 
+
+É uma  
 
 
 Para a economia, são fundamentais 
@@ -18,7 +20,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwOTA5NTgwLC0xMDk3NzE4NzkyLC04OT
-MzODg0MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUz
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtOD
+kzMzg4NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1
+MzYzXX0=
 -->
