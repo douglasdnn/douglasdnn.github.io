@@ -48,16 +48,16 @@ Ora, aqui, vejamos, temos uma contradição: tais candidatos e partidos, via de 
 
 Se, então, é certo empregar estes profissionais, por que não contratam? Por que então sustentam que estão fazendo economia? As respostas possíveis são:
 
-- Em toda a rede de contatos ou conhecidos, não conhecem ninguém capaz de realizar um trabalho de otimização sobre dezenas, centenas de milhões (às vezes bilhões) de reais que impacte, na qualidade do gasto, mais do que o próprio salário - o que depõe fortemente contra a qualidade técnica do material humano ao redor do parlamentar.
-- Não entenderam a fórmula apresentada acima - o que depõe fortemente contra a qualidade técnica do parlamentar e deu seu grupo político.
-- A eficácia eleitoral do discurso traz proveito pessoal ao parlamentar eleito - o que impõe o sacrifício da eficiência pública associado. Em outras palavras, **o parlamentar escolhe um comportamento ineficiente, que traz prejuízo ao público, para que lucre privadamente, no âmbito eleitoral**, com isso. De cert
+ 1. Em toda a rede de contatos ou conhecidos, não conhecem ninguém capaz de realizar um trabalho de otimização sobre dezenas, centenas de milhões (às vezes bilhões) de reais que impacte, na qualidade do gasto, mais do que o próprio salário - o que depõe fortemente contra a qualidade técnica do material humano ao redor do parlamentar.
+ 2. Não entenderam a fórmula apresentada acima - o que depõe fortemente contra a qualidade técnica do parlamentar e deu seu grupo político.    
+ 3. A eficácia eleitoral do discurso traz proveito pessoal ao parlamentar eleito - o que impõe o sacrifício da eficiência pública associado. Em outras palavras, **o parlamentar escolhe um comportamento ineficiente, que traz prejuízo ao público, para que lucre privadamente, no âmbito eleitoral**, com isso. De certa forma, um exemplo enciclopédico de **demagogia**.
 
 Dado que 1 e 2 dependem de uma francamente impossível sincronia de ignorância em um grande número de envolvidos, ficamos com 3, onde pelo menos há uma razão coerente. Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos decididamente no âmbito da **economia perversa**. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzA5NDU3OCwxMzU5ODE3MzMxLC05NT
-gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
-NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
-0=
+eyJoaXN0b3J5IjpbMzgxMDI1ODg1LDEzNTk4MTczMzEsLTk1OD
+AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
+MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
+==
 -->
