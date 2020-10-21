@@ -20,7 +20,7 @@ Certa vez trabalhei em uma empresa que lidava com a recuperação de dívidas de
 
 Desnecessário dizer, uma única negociação de sucesso pagava não só o salário destes profissionais naquele mês, como provavelmente anos e anos de seus trabalhos. E eles eram MUITO bons em obter tais resultados com boa frequência.
 
-Entretanto, há um método de gerência, muito popular no Brasil, que estabelece que "toda s
+Entretanto, há um método de gerência, muito popular no Brasil, que estabelece que "toda situação funcional deve ser piorada ao limite de sua inoperabilidade", e não devemos ignorar a influência dessa escola de pensamento. Alguém, 
 
 Uma vez
 
@@ -34,7 +34,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxNjg1OTE1LC0yODI4MDEwMjQsLTEwOT
-c3MTg3OTIsLTg5MzM4ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3
-NzYsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTM0ODk2OTc4NSwtMjgyODAxMDI0LC0xMD
+k3NzE4NzkyLC04OTMzODg0MjAsMTk1Mjk2MzczMCwyMDY3MjY3
+Nzc2LC0zMzI0NTUzNjNdfQ==
 -->
