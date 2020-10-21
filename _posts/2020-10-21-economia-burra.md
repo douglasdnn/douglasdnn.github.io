@@ -22,7 +22,9 @@ Desnecessário dizer, uma única negociação de sucesso pagava não só o salá
 
 Entretanto, há um método de gerência, muito popular no Brasil, que estabelece que "toda situação funcional deve ser piorada ao limite de sua inoperabilidade", e não devemos ignorar a influência dessa escola de pensamento. Alguém, do alto de sua genialidade, estava preocupado em reduzir custos, e, para isso... estabeleceu uma política restritiva em relação às ligações telefônicas da Mesa de Negociação. Sem mais ligações para celulares, sem mais interestaduais, sem mais quase nada que fosse uma ligação local para um telefone fixo. "Há de se pensar na economia!".
 
-O resultado não foi outro. Como os negociadores lidavam diretamente com diretores e executivos de grandes empresas, é normal que ligassem preponderantemente para celulares e para pessoas em trânsito constante entre várias filiais - ou que, mesmo estacionados em suas sedes, não estavam no Rio Grande do Sul. A consequência é 
+O resultado não foi outro. Como os negociadores lidavam diretamente com diretores e executivos de grandes empresas, é normal que ligassem preponderantemente para celulares e para pessoas em trânsito constante entre várias filiais - ou que, mesmo estacionados em suas sedes, não estavam no Rio Grande do Sul. A consequência é que, de um mês para o outro, o volume recuperado de dívidas caiu na ordem de vários milhões mensais. Mas a conta telefônica, ah, a conta, veja bem, esta caiu em pouco mais de cem reais naquele setor. Eficiência!
+
+A economia conceitua a eficiência com a possibilidade de se atingir o melhor resultado com o mínimo de erro ou desperdício, ao passo que a eficácia diz respeito à capacidade de produzir os efeitos desejados.
 
 Uma vez
 
@@ -36,7 +38,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEyNzI3NDYsLTI4MjgwMTAyNCwtMT
-A5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3MzAsMjA2NzI2
-Nzc3NiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTAyNzE1NjM4OSwtMjgyODAxMDI0LC0xMD
+k3NzE4NzkyLC04OTMzODg0MjAsMTk1Mjk2MzczMCwyMDY3MjY3
+Nzc2LC0zMzI0NTUzNjNdfQ==
 -->
