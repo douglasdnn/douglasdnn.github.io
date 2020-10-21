@@ -3,7 +3,6 @@ layout: post
 title:  "Economia Burra"
 date:   2020-10-21 14:34:25
 categories: economics
-author: "Douglas Donin"
 tags: featured
 image: "/assets/article_images/desperdicio-dinheiro.jpg"
 published: true
@@ -62,8 +61,8 @@ Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzExNDcyNjYsMzE5ODM1OTE0LC01Mz
-UwNTMzMzQsMTM1OTgxNzMzMSwtOTU4MDEyMDUzLC0yODI4MDEw
-MjQsLTEwOTc3MTg3OTIsLTg5MzM4ODQyMCwxOTUyOTYzNzMwLD
-IwNjcyNjc3NzYsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMzE5ODM1OTE0LC0xMzMxMTQ3MjY2LDMxOT
+gzNTkxNCwtNTM1MDUzMzM0LDEzNTk4MTczMzEsLTk1ODAxMjA1
+MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0MjAsMT
+k1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ==
 -->
