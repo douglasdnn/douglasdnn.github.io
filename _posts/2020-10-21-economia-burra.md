@@ -8,7 +8,9 @@ image: "https://www.infomoney.com.br/wp-content/uploads/2019/06/desperdicio-dinh
 published: false
 ---
 # Economia Burra
-Há uma crescente preocupação das campanhas políticas, nos últimos anos, em festejar a "economia de gastos de gabinete" ou de verbas parlamentares. Não são poucos os que ostentam que "gastaram zero reais da verba de gabinete", ou "contratei men
+Há uma crescente preocupação das campanhas políticas, nos últimos anos, em festejar a "economia de gastos de gabinete" ou de verbas parlamentares. Não são poucos os que ostentam que "gastaram zero reais da verba de gabinete", ou "contratei menos da metade dos assessores a que tinha direito".
+
+Em qualquer dicionário que se olhe, são comportamentos sinônimos de economia burra - ou, ao menos, de declarada e assumida ineficiência econômica. Entende-se, óbvio, o apelo populista, voltado ao .
 
 É uma  
 
@@ -20,7 +22,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM3ODIxNjEsLTI4MjgwMTAyNCwtMT
-A5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3MzAsMjA2NzI2
-Nzc3NiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbOTI4MDQ2NjE0LC0yODI4MDEwMjQsLTEwOT
+c3MTg3OTIsLTg5MzM4ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3
+NzYsLTMzMjQ1NTM2M119
 -->
