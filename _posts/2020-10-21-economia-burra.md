@@ -18,7 +18,9 @@ Convém conceituar a "economia burra" - e o farei com um exemplo, real, particul
 
 Certa vez trabalhei em uma empresa que lidava com a recuperação de dívidas de grande montante - de milhões e milhões de reais. Basicamente, profissionais experientes, já no topo da carreira, compunham uma "mesa de negociação", um setor onde, ativamente, ligavam para os clientes devedores (na maior parte do tempo donos ou diretores de empresas devedoras) e buscavam recuperar aquelas dívidas, dadas já como prejuízo contábil.
 
-Desnecessário dizer, uma negociação de sucesso pagava não só o salário destes profissionais naquele mês, como, 
+Desnecessário dizer, uma única negociação de sucesso pagava não só o salário destes profissionais naquele mês, como provavelmente anos e anos de seus trabalhos. E eles eram MUITO bons em obter tais resultados com boa frequência.
+
+Entretanto, há um método de gerência, muito popular no Brasil, que estabelece que "toda s
 
 Uma vez
 
@@ -32,7 +34,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk3NDA0NDcsLTI4MjgwMTAyNCwtMT
-A5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3MzAsMjA2NzI2
-Nzc3NiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMzgxNjg1OTE1LC0yODI4MDEwMjQsLTEwOT
+c3MTg3OTIsLTg5MzM4ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3
+NzYsLTMzMjQ1NTM2M119
 -->
