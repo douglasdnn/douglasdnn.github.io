@@ -39,9 +39,11 @@ O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais
 
 Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela **escala dos valores envolvidos** nas alterações introduzidas em toda sociedade (ainda mais se falamos de um assessor estadual, ou federal) por uma lei, ou pela **escala dos valores envolvidos** nos gastos públicos daquele ente federativo, podemos supor que **só é eficientemente econômica a dispensa desse assessor** se, e unicamente se, cumulativamente:
 
-- Não há a possibilidade de se rever e otimizar economicamente as leis existentes a que estão submetidos toda a população e território que atingem,, na ordem de S reais mensais (onde S é o valor do salário custo do assessor).
-- Não há a possibilidade de se introduzir novas leis capazes de promover eficiência econômica em toda a população e território que atingem, na ordem de S reais mensais (onde S é o valor do salário custo do assessor).
-- Não há a possibilidade de se rever e otimizar economicamente as leis existentes, na ordem de S reais mensais (onde S é o valor do salário custo do assessor).
+- Não há a possibilidade de se rever e otimizar economicamente as leis existentes a que estão submetidos toda a população e território que tais atingem, na ordem total de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
+- Não há a possibilidade de se introduzir novas leis capazes de promover eficiência econômica em toda a população e território que atingem, na ordem total de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
+- Não há a possibilidade de se otimizar economicamente os gastos públicos totais do poder executivo fiscalizado, na ordem de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
+
+Ora, aqui, 
 
 
 
@@ -52,7 +54,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE2MDAyNDYsMTM1OTgxNzMzMSwtOT
+eyJoaXN0b3J5IjpbLTEwMDcxMTY2NzIsMTM1OTgxNzMzMSwtOT
 U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
 ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
 19
