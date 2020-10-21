@@ -43,7 +43,9 @@ Bem, supomos que o assessor está empregado no fim a que se destina (o assessora
 - Não há a possibilidade de se introduzir novas leis capazes de promover eficiência econômica em toda a população e território que atingem, na ordem total de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
 - Não há a possibilidade de se otimizar economicamente os gastos públicos totais do poder executivo fiscalizado, na ordem de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
 
-Ora, aqui, 
+Apenas na ocorrência cumulada destas três situações o "assessor" não se paga.
+
+Ora, aqui, temos uma contradição: tais candidatos e partidos, via de regra, sustentam que há enorme desperdício nos gastos públicos.
 
 
 
@@ -54,7 +56,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcxMTY2NzIsMTM1OTgxNzMzMSwtOT
+eyJoaXN0b3J5IjpbLTIxMjA4MjE3NTUsMTM1OTgxNzMzMSwtOT
 U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
 ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
 19
