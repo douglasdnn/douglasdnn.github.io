@@ -30,18 +30,24 @@ Não é difícil relacionar isso ao discurso populista da "economia de gabinete"
 
 Um parlamentar é eleito para realizar dois trabalhos básicos: participar do processo de criação e votação de leis e fiscalização do Poder Executivo. Logo, seu trabalho possui impactos econômicos de duas formas:
 
- 1. 1 - Pela introdução (ou modificação) de regras (normas) que gerem
-    impacto econômico na população sujeita a ela; 2 - Pela intervenção
-    economicamente eficiente nos gastos, contratos e ações do Poder
-    Executivo.
+ 1. Pela introdução (ou modificação) de regras (normas) que gerem impacto econômico na população sujeita a ela; 
+
+ 2. Pela intervenção  economicamente eficiente nos gastos, contratos e ações do Poder     Executivo.
 
 O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais em capitais. Quando um parlamentar dispensa um assessor, ele está fazendo economia?
 
 Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela **escala dos valores envolvidos** nas alterações introduzidas em toda sociedade (ainda mais se falamos de um assessor estadual, ou federal) por uma lei, ou pela **escala dos valores envolvidos** nos gastos públicos daquele ente federativo, podemos supor que **só é eficientemente econômica a dispensa desse assessor** se, e unicamente se, cumulativamente:
 
-- Não há a possibilidade de se rever e otimizar economicamente as leis existentes a que estão submetidos toda a população e território que tais atingem, na ordem total de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
-- Não há a possibilidade de se introduzir novas leis capazes de promover eficiência econômica em toda a população e território que atingem, na ordem total de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
-- Não há a possibilidade de se otimizar economicamente os gastos públicos totais do poder executivo fiscalizado, na ordem de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
+ 1. Não há a possibilidade de se rever e otimizar economicamente as leis
+    existentes a que estão submetidos toda a população e território que
+    tais atingem, na ordem total de S reais mensais (onde S é o valor do
+    salário ou custo mensal do assessor).
+ 2. Não há a possibilidade de se introduzir novas leis capazes de
+    promover eficiência econômica em toda a população e território que
+    atingem, na ordem total de S reais mensais (onde S é o valor do
+    salário ou custo mensal do assessor).
+
+Não há a possibilidade de se otimizar economicamente os gastos públicos totais do poder executivo fiscalizado, na ordem de S reais mensais (onde S é o valor do salário ou custo mensal do assessor).
 
 Apenas na ocorrência cumulada destas três situações o "assessor" não se paga.
 
@@ -56,8 +62,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI2NjM5ODEsMTM1OTgxNzMzMSwtOT
-U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
-ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
-19
+eyJoaXN0b3J5IjpbMTE4ODkwODAwLDEzNTk4MTczMzEsLTk1OD
+AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
+MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
+==
 -->
