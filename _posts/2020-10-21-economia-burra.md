@@ -33,9 +33,9 @@ Um parlamentar é eleito para realizar dois trabalhos básicos: participar do pr
  1. Pela introdução (ou modificação) de regras (normas) que gerem impacto econômico na população sujeita a ela; 
  2. Pela intervenção  economicamente eficiente nos gastos, contratos e ações do Poder Executivo.
 
-Para que possa executar tais tarefas, o parlamentar faz uso de assessores, que ou 
+Para que possa executar tais tarefas, o parlamentar faz uso de assessores, que ou são especializados (mais do que o próprio parlamentar, ao menos) na área que se destinam a trabalhar, ou ao menos liberam o parlamentar para que use seu tempo em outras áreas em que não pode ser substituído, como em reuniões com demais parlamentares, com autoridades ou representados.
 
-O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais em capitais. Quando um parlamentar dispensa um assessor, ele está fazendo economia?
+O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais em capitais. Sabendo disso, perguntamos: quando um parlamentar dispensa um assessor, ele está fazendo economia?
 
 Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela **escala dos valores envolvidos** nas alterações introduzidas em toda sociedade (ainda mais se falamos de um assessor estadual, ou federal) por uma lei, ou pela **escala dos valores envolvidos** nos gastos públicos daquele ente federativo, podemos supor que **só é eficientemente econômica a dispensa desse assessor** se, e unicamente se, cumulativamente:
 
@@ -57,8 +57,8 @@ Dado que 1 e 2 dependem de uma francamente impossível sincronia de ignorância 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzc3MzkzOCwxMzU5ODE3MzMxLC05NT
-gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
-NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
-0=
+eyJoaXN0b3J5IjpbMjIxMTk1Mzc0LDEzNTk4MTczMzEsLTk1OD
+AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
+MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
+==
 -->
