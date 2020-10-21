@@ -30,7 +30,10 @@ A **economia burra** é isso: a implementação de políticas ou ações cujo es
 
 Não é difícil relacionar isso ao discurso populista da "economia de gabinete".
 
-Um parlamentar é eleito para realizar dois trabalhos básicos: participar do processo de criação e votação de leis e fiscalização do Poder Executivo. Dito isto
+Um parlamentar é eleito para realizar dois trabalhos básicos: participar do processo de criação e votação de leis e fiscalização do Poder Executivo. Logo, seu trabalho possui impactos econômicos de duas formas:
+
+1 - Pela introdução (ou modificação) de regras (normas) que gerem impacto econômico na população sujeita a ela;
+2 - Pela 
 
 
 
@@ -41,7 +44,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NTE4OTA4LC05NTgwMTIwNTMsLTI4Mj
-gwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3
-MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTEzNjMyNTIzOSwtOTU4MDEyMDUzLC0yOD
+I4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4ODQyMCwxOTUyOTYz
+NzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M119
 -->
