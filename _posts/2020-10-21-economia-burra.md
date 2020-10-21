@@ -39,8 +39,10 @@ O salário de um assessor parlamentar, por exemplo, gira em torno de 7 mil reais
 
 Bem, supomos que o assessor está empregado no fim a que se destina (o assessoramento do gabinete em realizar os trabalhos descritos acima). Pela **escala dos valores envolvidos** nas alterações introduzidas em toda sociedade (ainda mais se falamos de um assessor estadual, ou federal) por uma lei, ou pela **escala dos valores envolvidos** nos gastos públicos daquele ente federativo, podemos supor que **só é eficientemente econômica a dispensa desse assessor** se, e unicamente se, cumulativamente:
 
-- Não há a possibilidade de se otimizar economicamente as leis, na ordem de X 
-- Os gastos 
+- Não há a possibilidade de se rever e otimizar economicamente as leis existentes, na ordem de S reais mensais (onde S é o valor do salário custo do assessor).
+- Não há a possibilidade de se introduzir leis economicamente as leis existentes, na ordem de S reais mensais (onde S é o valor do salário custo do assessor).
+- Não há a possibilidade de se rever e otimizar economicamente as leis existentes, na ordem de S reais mensais (onde S é o valor do salário custo do assessor).
+
 
 
 
@@ -50,8 +52,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDEyNTQxNjEsMTM1OTgxNzMzMSwtOT
-U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
-ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
-19
+eyJoaXN0b3J5IjpbLTU5MzYwNzYwNCwxMzU5ODE3MzMxLC05NT
+gwMTIwNTMsLTI4MjgwMTAyNCwtMTA5NzcxODc5MiwtODkzMzg4
+NDIwLDE5NTI5NjM3MzAsMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX
+0=
 -->
