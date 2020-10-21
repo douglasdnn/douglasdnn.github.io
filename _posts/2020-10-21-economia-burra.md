@@ -10,7 +10,7 @@ published: false
 # Economia Burra
 Há uma crescente preocupação das campanhas políticas, nos últimos anos, em festejar a "economia de gastos de gabinete" ou de verbas parlamentares. Não são poucos os que ostentam que "gastaram zero reais da verba de gabinete", ou "contratei menos da metade dos assessores a que tinha direito".
 
-Em qualquer dicionário que se olhe, são comportamentos sinônimos de economia burra - ou, ao menos, de declarada e assumida ineficiência econômica. Entende-se, óbvio, o apelo populista, voltado ao .
+Em qualquer dicionário que se olhe, são comportamentos sinônimos de economia burra - ou, ao menos, de declarada e assumida ineficiência econômica. Entende-se, óbvio, o apelo populista, voltado ao eleitor leigo, principalmente, por existir um claro aproveitamento da onda antipolítica que varreu o Brasil depois de 2013 (onde tudo o que diz respeito à política é criminalizado, tornado imoral), mas o fato é .
 
 É uma  
 
@@ -22,7 +22,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4MDQ2NjE0LC0yODI4MDEwMjQsLTEwOT
-c3MTg3OTIsLTg5MzM4ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3
-NzYsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE3ODk1MTg3MTMsLTI4MjgwMTAyNCwtMT
+A5NzcxODc5MiwtODkzMzg4NDIwLDE5NTI5NjM3MzAsMjA2NzI2
+Nzc3NiwtMzMyNDU1MzYzXX0=
 -->
