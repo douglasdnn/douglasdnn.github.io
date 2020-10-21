@@ -5,7 +5,7 @@ date:   2020-10-21 14:34:25
 categories: economics
 tags: featured
 image: "https://www.infomoney.com.br/wp-content/uploads/2019/06/desperdicio-dinheiro.jpg"
-published: false
+published: true
 ---
 # Economia Burra
 Há uma crescente preocupação das campanhas políticas, nos últimos anos, em festejar a "economia de gastos de gabinete" ou de verbas parlamentares. Não são poucos os que ostentam que "gastaram zero reais da verba de gabinete", ou "contratei menos da metade dos assessores a que tinha direito".
@@ -60,8 +60,8 @@ Mas, vejamos: com isso, abandonamos a linha da **economia burra,** e adentramos 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjAzNTE2LDEzNTk4MTczMzEsLTk1OD
-AxMjA1MywtMjgyODAxMDI0LC0xMDk3NzE4NzkyLC04OTMzODg0
-MjAsMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMzI0NTUzNjNdfQ
-==
+eyJoaXN0b3J5IjpbLTEwMjUwOTIyMDcsMTM1OTgxNzMzMSwtOT
+U4MDEyMDUzLC0yODI4MDEwMjQsLTEwOTc3MTg3OTIsLTg5MzM4
+ODQyMCwxOTUyOTYzNzMwLDIwNjcyNjc3NzYsLTMzMjQ1NTM2M1
+19
 -->
