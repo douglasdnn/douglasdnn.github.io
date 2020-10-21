@@ -145,7 +145,7 @@ C --> D
 layout: post
 title:  "Dicas básicas para usar o Google Scholar"
 date:   2020-08-12 14:34:25
-categories: academics
+categories: economics
 tags: featured
 image: "https://blog.hotmart.com/blog/2019/11/26190735/BLOG_google-academico-670x419.png"
 published: false
@@ -169,5 +169,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 eyJoaXN0b3J5IjpbNzEwOTM2NTg1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzI2Nzc3NiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTk1Mjk2MzczMCwyMDY3MjY3Nzc2LC0zMz
+I0NTUzNjNdfQ==
 -->
