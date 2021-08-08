@@ -25,3 +25,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/este-e-um-post-de-teste.md
