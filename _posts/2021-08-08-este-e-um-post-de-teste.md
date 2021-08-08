@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Este é um post de teste
 date: 2021-08-08 03:00:00 +0000
 categories: Teste1, teste 2
