@@ -1,0 +1,22 @@
+---
+label: Post Padrão
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: tags
+  label: tags
+- type: file
+  name: image
+  label: image
