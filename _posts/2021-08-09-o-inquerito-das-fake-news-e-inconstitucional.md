@@ -15,7 +15,7 @@ As contestações de natureza legal parecem se aglomerar em três argumentos: o 
 
 Vamos deixar a retórica política de lado e investigar brevemente o que diz a lei em um por um dos argumentos.
 
-Quanto ao primeiro argumento, de que o inquérito _não se refere a crime específico_, geralmente é acompanhado pela menção ao art. 5º, § 1º, do Código de Processo Penal, que define que o _requerimento para abertura de inquérito_ deve conter “a narração do fato, com todas as circunstâncias“. Como a portaria de abertura do inquérito não descreve os crimes, estaria em desacordo com a lei. Um dos locais que utilizam tal argumento é o [guia do site Gazeta do Povo para o caso](https://www.gazetadopovo.com.br/instituto-politeia/inquerito-toffoli-ilegal/ "https://www.gazetadopovo.com.br/instituto-politeia/inquerito-toffoli-ilegal/").
+Quanto ao primeiro argumento, de que o inquérito _não se refere a crime específico_, geralmente é acompanhado pela menção ao art. 5º, § 1º, do Código de Processo Penal, que define que o _requerimento para abertura de inquérito_ deve conter “_a narração do fato, com todas as circunstâncias_“. Como a portaria de abertura do inquérito não descreve os crimes, estaria em desacordo com a lei. Uma das fontes que utilizam tal argumento é o [guia do site Gazeta do Povo para o caso](https://www.gazetadopovo.com.br/instituto-politeia/inquerito-toffoli-ilegal/ "https://www.gazetadopovo.com.br/instituto-politeia/inquerito-toffoli-ilegal/").
 
 Vejamos não só o recorte de um trecho do 5º, § 1º, do Código de Processo Penal, mas o art. 5º inteiro:
 
