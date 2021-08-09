@@ -43,13 +43,13 @@ Também é o de mais direta e óbvia contestação. O Regimento Interno do STF d
 
 > Art. 43. Ocorrendo infração à lei penal na sede ou dependência do Tribunal, o Presidente instaurará inquérito, se envolver autoridade ou pessoa sujeita à sua jurisdição, ou delegará esta atribuição a outro Ministro.
 
-Ou seja, é possível a abertura de inquérito, _SE o crime ocorrer nas dependências do Tribunal_. Para saber se ele ocorreu, vamos ter que recordar o básico da Teoria do Crime. 
+Ou seja, é possível a abertura de inquérito, _SE o crime ocorrer nas dependências do Tribunal_. Para saber se ele ocorreu, vamos ter que recordar o básico da Teoria do Crime.
 
 Acerca do Lugar do Crime, o nosso CP adotou a teoria da UBIQUIDADE, como diz o art. 6:
 
 > Art. 6º - Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, **bem como onde se produziu ou deveria produzir-se o resultado**.
 
-ENTÃO, teoricamente, um crime decorrente de uma declaração ocorre TANTO no local onde a declaração foi produzida, como em cada local onde ela foi reproduzida (resultado naturalístico). 
+ENTÃO, teoricamente, um crime decorrente de uma declaração ocorre TANTO no local onde a declaração foi produzida, como em cada local onde ela foi reproduzida (resultado naturalístico).
 
 Não é preciso nem que o alvo seja Ministro, porque a vítima não importa para a competência: esta é dada, no caso de inquérito, por diversos critérios concorrentes, conforme estabelecido pelo art. 69 e seguintes do Código de Processo Penal:
 
@@ -73,21 +73,25 @@ O principal critério é, de fato, o _ratione loci_ - competência dada pelo lug
 
 Mais um argumento que não resiste à simples leitura da Lei.
 
-Uma última indagação se refere à questão da distribuição. Para isso, citam o art. 66 do Regimento Interno do STF: 
+Uma última indagação se refere à questão da distribuição. Para isso, citam o art. 66 do Regimento Interno do STF:
 
 > Art. 66. A distribuição será feita por sorteio ou prevenção, mediante sistema informatizado, acionado automaticamente, em cada classe de processo.
 
-O art. 66 fala de distribuição de _processos_ (e, topologicamente, está inserido na Parte II do RISTF, "Do Processo"). O inquérito não é um processo. 
+O art. 66 fala de distribuição de _processos_ (e, topologicamente, está inserido na Parte II do RISTF, "Do Processo"). O inquérito não é um processo.
 
 Exatamente por isso, não falamos de sistema acusatório (como é o processo), mas de sistema inquisitório (como é o inquérito) - o que desmonta também o argumento de que _estaria sendo ferido o sistema acusatório_.
 
 O conjunto dos arts. 42 e 43 do RISTF deixa claro o procedimento de delegação:
 
-> Art. 42. **O Presidente responde pela polícia do Tribunal**. No exercício dessa atribuição pode requisitar o auxílio de outras autoridades, quando necessário. 
+> Art. 42. **O Presidente responde pela polícia do Tribunal**. No exercício dessa atribuição pode requisitar o auxílio de outras autoridades, quando necessário.
 >
 > Art. 43. Ocorrendo infração à lei penal na sede ou dependência do Tribunal, **o Presidente instaurará inquérito**, se envolver autoridade ou pessoa sujeita à sua jurisdição, **ou delegará esta atribuição a outro Ministro.**
 
 Foi exatamente este o ocorrido: o Presidente, Dias Toffoli, designou um outro Ministro para a condução do inquérito.
+
+Mas a abertura de inquérito depende da participação do Procurador-Geral da União?
+
+Outro ponto polêmico, e, também, outro ponto alvo de desinformação. O PGR é o único que pode oferecer denúncia criminal contra o Presidente, mas a denúncia ocorre APÓS o inquérito. A autoridade policial (neste caso, o próprio Ministro do STF, em exercício de função regimental de polícia) conclui o inquérito, o fecha e remete para o PGR, que decide se oferece a denúncia à Justiça ou não. É comum que o MP acompanhe inquéritos, mas de modo algum é obrigatório.
 
 Então, a instituição do inquérito não parece encontrar maiores óbices, seguindo as regras procedimentais adequadas.
 
