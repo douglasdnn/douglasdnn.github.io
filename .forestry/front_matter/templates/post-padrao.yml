@@ -25,3 +25,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/o-inquerito-das-fake-news-e-inconstitucional.md
