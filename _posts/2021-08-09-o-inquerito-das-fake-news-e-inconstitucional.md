@@ -35,19 +35,23 @@ Ainda, mesmo que fosse aplicável, "a narração do fato, com todas as circunst�
 
 Suponhamos que um corpo é achado em algum lugar, com ferimento na cabeça. Um policial passa pelo local, o descobre, e leva o fato ao conhecimento do Delegado, que abre o inquérito de ofício, e se passa a investigar se o corpo é vítima de um homicídio, de um latrocínio, de lesão corporal com resultado morte ou mesmo de um simples acidente. O inquérito não precisa, em sua portaria de abertura, indicar qual crime ocorreu - nem mesmo _se_ ocorreu crime. A mera _possibilidade real de ter ocorrido um crime_ já serve para abertura do inquérito, que investigará a existência da _materialidade_ (a ocorrência real do crime) e da _autoria_. Pode, muito bem, feitas as diligências investigatórias, concluir por fim que não houve crime algum.
 
+Portanto, improcedente este ponto.
+
 O segundo argumento infere que o inquérito seria ilegal pois o _STF não teria esta atribuição_, _pois_ _os crimes não aconteceram dentro das dependências do STF_. De novo, tal argumento é um dos motivos de ilegalidade indicados pelo [guia do site Gazeta do Povo para o caso](https://www.gazetadopovo.com.br/instituto-politeia/inquerito-toffoli-ilegal/ "https://www.gazetadopovo.com.br/instituto-politeia/inquerito-toffoli-ilegal/").
 
 Também é o de mais direta e óbvia contestação. O Regimento Interno do STF diz:
 
 > Art. 43. Ocorrendo infração à lei penal na sede ou dependência do Tribunal, o Presidente instaurará inquérito, se envolver autoridade ou pessoa sujeita à sua jurisdição, ou delegará esta atribuição a outro Ministro.
 
-Ou seja, é possível a abertura de inquérito, SE o crime ocorrer nas dependências do Tribunal. Para saber se ele ocorreu, vamos ter que recordar o básico da Teoria do Crime. 
+Ou seja, é possível a abertura de inquérito, _SE o crime ocorrer nas dependências do Tribunal_. Para saber se ele ocorreu, vamos ter que recordar o básico da Teoria do Crime. 
 
-Acerca do Lugar do Crime, o nosso CP adotou a teoria da UBIQUIDADE, como diz o art 6:
+Acerca do Lugar do Crime, o nosso CP adotou a teoria da UBIQUIDADE, como diz o art. 6:
 
 > Art. 6º - Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, **bem como onde se produziu ou deveria produzir-se o resultado**.
 
-ENTÃO, teoricamente, um crime decorrente de uma declaração ocorre TANTO no local onde a declaração foi produzida, como em cada local onde ela foi reproduzida (resultado naturalístico). Não é preciso nem que o alvo seja Ministro, porque a vítima não importa para a competência: esta é dada, no caso de inquérito, por diversos critérios concorrentes, conforme estabelecido pelo art. 69 e seguintes do Código de Processo Penal:
+ENTÃO, teoricamente, um crime decorrente de uma declaração ocorre TANTO no local onde a declaração foi produzida, como em cada local onde ela foi reproduzida (resultado naturalístico). 
+
+Não é preciso nem que o alvo seja Ministro, porque a vítima não importa para a competência: esta é dada, no caso de inquérito, por diversos critérios concorrentes, conforme estabelecido pelo art. 69 e seguintes do Código de Processo Penal:
 
 > Art. 69. Determinará a competência jurisdicional:
 >
@@ -67,7 +71,7 @@ ENTÃO, teoricamente, um crime decorrente de uma declaração ocorre TANTO no lo
 
 O principal critério é, de fato, o _ratione loci_ - competência dada pelo lugar onde se deu a infração penal, ou seja, na circunscrição sob sua responsabilidade. Este critério pode ser relativizado em razão da matéria (_ratione materiae_), pessoa (_ratione personae_) e outros, por regras dadas pelos artigos seguintes do Código (70 a 91). No caso, também reforça a competência o fato de que o crimes foram praticados por autoridade detentora de foro por prerrogativa de função, onde os procedimentos serão adotados ao respectivo foro (STF, STJ, TJ).
 
-Então, a instituição do inquérito não parece encontrar maiores óbices, seguindo as regras procedimentais adequadas.
+Mais um argumento que não resiste à simples leitura da Lei.
 
 Uma última indagação se refere à questão da distribuição. Para isso, citam o art. 66 do Regimento Interno do STF: 
 
@@ -84,5 +88,7 @@ O conjunto dos arts. 42 e 43 do RISTF deixa claro o procedimento de delegação:
 > Art. 43. Ocorrendo infração à lei penal na sede ou dependência do Tribunal, **o Presidente instaurará inquérito**, se envolver autoridade ou pessoa sujeita à sua jurisdição, **ou delegará esta atribuição a outro Ministro.**
 
 Foi exatamente este o ocorrido: o Presidente, Dias Toffoli, designou um outro Ministro para a condução do inquérito.
+
+Então, a instituição do inquérito não parece encontrar maiores óbices, seguindo as regras procedimentais adequadas.
 
 Portanto, LEGAL o "inquérito das fake news". Evidentemente, esta é uma análise crua, baseada na Lei, e não encerra as questões principiológicas envolvidas - sempre a discussão mais rica.
