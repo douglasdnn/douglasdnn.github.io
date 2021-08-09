@@ -89,9 +89,7 @@ O conjunto dos arts. 42 e 43 do RISTF deixa claro o procedimento de delegação:
 
 Foi exatamente este o ocorrido: o Presidente, Dias Toffoli, designou um outro Ministro para a condução do inquérito.
 
-Mas a abertura de inquérito depende da participação do Procurador-Geral da União?
-
-Outro ponto polêmico, e, também, outro ponto alvo de desinformação. O PGR é o único que pode oferecer denúncia criminal contra o Presidente, mas a denúncia ocorre APÓS o inquérito. A autoridade policial (neste caso, o próprio Ministro do STF, em exercício de função regimental de polícia) conclui o inquérito, o fecha e remete para o PGR, que decide se oferece a denúncia à Justiça ou não. É comum que o MP acompanhe inquéritos, mas de modo algum é obrigatório.
+Mas a abertura de inquérito depende da participação do Procurador-Geral da União? Outro ponto polêmico, e, também, outro ponto alvo de desinformação. O PGR é o único que pode oferecer denúncia criminal contra o Presidente, mas a denúncia ocorre APÓS o inquérito. A autoridade policial (neste caso, o próprio Ministro do STF, em exercício de função regimental de polícia) conclui o inquérito, o fecha e remete para o PGR, que decide se oferece a denúncia à Justiça ou não. É comum que o MP acompanhe inquéritos, mas de modo algum é obrigatório.
 
 Então, a instituição do inquérito não parece encontrar maiores óbices, seguindo as regras procedimentais adequadas.
 
