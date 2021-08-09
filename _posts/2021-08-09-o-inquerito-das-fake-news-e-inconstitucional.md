@@ -11,7 +11,7 @@ Uma questão que pareceu dormente, mas que voltou às redes sociais nos últimos
 
 À margem da retórica, vamos à Lei. O "inquérito das Fake News" é inconstitucional? Vejamos as respostas que a letra fria da Lei - esse método pouco espetacular de descoberta do Direito, mas ainda o mais fundamental, dá.
 
-As contestações de natureza legal parecem se aglomerar em três argumentos: o inquérito seria inconstitucional pois _não se refere a crime específico_, seria inconstitucional pois o _STF não teria esta atribuição_, _pois_ _os crimes não aconteceram dentro das dependências do STF_, e seria inconstitucional pois _o inquérito não foi distribuído_, mas delegado diretamente a Alexandre de Moraes.
+As contestações de natureza legal parecem se aglomerar em três argumentos: o inquérito seria inconstitucional pois _não se refere a crime específico_, seria inconstitucional pois o _STF não teria esta atribuição_, _pois_ _os crimes não aconteceram dentro das dependências do STF_, e seria inconstitucional pois _o inquérito não foi distribuído_, mas delegado diretamente a Alexandre de Moraes. Além disso, alegam, seria inconstitucional pois _o inquérito não tem a participação do Procurador-Geral da República, único que pode oferecer denúncia criminal contra o Presidente._
 
 Vamos deixar a retórica política de lado e investigar brevemente o que diz a lei em um por um dos argumentos.
 
