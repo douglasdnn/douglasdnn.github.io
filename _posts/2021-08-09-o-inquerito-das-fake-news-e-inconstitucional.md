@@ -29,7 +29,7 @@ Vejamos não só o recorte de um trecho do 5º, § 1º, do Código de Processo P
 >
 > a) a narração do fato, com todas as circunstâncias (...).
 
-O uso de tal argumento, pelo Gazeta do Povo, dificilmente pode ser classificado como mero equívoco. O trecho citado pelo site se refere unicamente ao requerimento exterior (inciso II). No caso, o inquérito foi aberto de ofício pelo STF (inciso I), logo inaplicável o § 1º.
+O uso de tal argumento, pelo Gazeta do Povo, dificilmente pode ser classificado como mero equívoco. O trecho citado pelo site se refere unicamente ao requerimento (inciso II). No caso, o inquérito foi aberto de ofício pela própria autoridade (inciso I), logo inaplicável o § 1º.
 
 Ainda, mesmo que fosse aplicável, "a narração do fato, com todas as circunstâncias", não se confunde com a especificação de crime. São exigidos apenas fatos. A investigação provará se houve crime, e qual crime.
 
