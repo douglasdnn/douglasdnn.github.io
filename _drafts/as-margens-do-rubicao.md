@@ -51,8 +51,28 @@ Ou seja, parcelas da população que se aproximaram dele motivados por motivos c
 
 O que sobra é o seu grupo de apoiadores ideológicos, fanatizados, incondicionais. Mas, mesmo esse grupo, que antes se acreditava um monolito irredutível estimado em cerca de 30% do eleitor, dá sinais de a cada golpe trincar e desgastar um pouco mais, hoje estando em torno dos 25%.
 
-De outro flanco, a receptividade de uma candidatura de Lula, renascida das cinzas, parece se consolidar cada vez mais. [Hoje, a diferença percentual entre os dois passa os 25%](https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml "https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml").
+De outro flanco, a receptividade de uma candidatura de Lula, renascida das cinzas, parece se consolidar cada vez mais. [Hoje, a diferença percentual entre os dois passa os 25%](https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml "https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml"). 
 
 ![](/uploads/imagem_2021-08-11_145446.png)
 
-Dificilmente esse número, portanto, AUMENTARÁ a tempo de reverter a desvantagem 
+A entrada de um novo competidor de peso no jogo também dificilmente resultaria em transferência de mais votos para Bolsonaro do que para seu concorrente no segundo turno, visto que isso é determinado, majoritariamente, pela rejeição. O segundo turno, dessa vez, se desenha extremamente problemático para o Presidente. Seu maior trunfo para capitanear a ala antipetista da população - o desconhecimento do público em geral de que ele seria, por todas as métricas e em todas as áreas, _pior do que o PT_ justamente naquilo onde o PT é criticado - se perdeu. Ganhar no primeiro turno, por outro lado, seria um milagre e dependeria de uma reviravolta total na tendência de piora.
+
+Aqui entramos no espinhoso assunto do _golpe militar_.
+
+## Os Militares
+
+O _endgame_ dos militares parece mais sofisticado, e aberto a inúmeras possibilidades. Para deduzir o que podem (ou devem) fazer, devemos, também, analisar sua situação e objetivos no jogo. 
+
+Os militares sempre tiveram uma relação de amor e ódio com a República. A própria obra republicana no Brasil, em grande parte, só foi possível pela gigantesca influência do positivismo da geração de Benjamin Constant - até hoje, a maior influência intelectual na alma do Exército. A caserna, desde o início, dentre todas as corporações no Brasil, sempre se viu como a mais apta a ser a cabeça do "despotismo técnico" idealizado por Comte - em parte pelo motivo de ser uma das únicas corporações que continua acreditando nisso. Por isso, natural que fosse ela a, muito antes que o espírito republicano estivesse maduro na sociedade, apressar a vinda da República, a qual conduziu nos primeiros anos. 
+
+Ocorre que a contraparte obrigatória da República, a _Democracia_, não encontra lugar no pensamento positivista que os militares preservam até hoje em âmbar. Para os positivistas, um manda "quem sabe das coisas" e o resto, _que não sabe_, obedece. _Para seu próprio bem_. Uma ideologia confortável, pois faz o obtuso arrogante (o único ignorante a ponto de sequer reconhecer o que ignora) se considerar, de fato, um sábio inerrante e altruísta. Um governo de todos é ofensivo, porque rouba, na opinião do positivista, a sua prerrogativa sagrada de _decidir_ _o que é o melhor para todos_ sem ser questionado e colocar tais planos em prática sem oposição.
+
+Este pensamento está profundamente encrustrado na alma militar, que, ativamente, o preserva em retorno, pela doutrina das Escolas de Formação de Oficiais, onde os militares são vistos como os adultos da sociedade, e os civis, meras crianças que brincam com coisas sem utilidade prática, como _leis, justiça, filosofia, universidades, constituições, livrinhos_. Isto é _tolerado_ mas, julgam os militares, _de vez em quando as crianças devem dar lugar de novo aos adultos_. Ainda mais quando as crianças não honram e prestigiam os adultos como eles acham que deveriam ser.
+
+Por isso o desprendimento tão grande em periodicamente voltar à cena - é como a concretização de um direito e o cumprimento de um dever, na visão castrense. Ocorreu em 1889, em 1922, em 1930, em 1964 e, em um movimento dentro de um movimento, em 1968. 
+
+Ocorre que o período militar (1964-85), embora tenha trazido ganhos expressivos para a caserna (e suas famílias), realizando, ao menos, em parte, a reivindicação de prestígio material a que acham ter direito, fez o sonho positivista tomar um baque. Subitamente com o controle de uma sociedade complexa na mão, em um mundo ainda mais complexo, perceberam com o passar do tempo que não era tão fácil, sequer agradável, ocupar o papel do déspota tecnocrata. Por meios de 1980, perceberam que seria melhor negócio ficar com os bônus, mas não com os ônus do poder.
+
+Com a redemocratização, outro baque: descobriram que alguns gostos peculiares dos militares não eram tão apreciados pelo público em geral, como _torturas_, _execuções sumárias_ e _violações ostensivas a direitos humanos_. Não adiantou explicar que foi para o próprio bem dos torturados, executados e violados: viram a sociedade os enclausurar em um sistema constitucional sólido, e amargaram o sucateamento e a 
+
+A estratégia adequada para isso seria preparar um **_pronunciamiento_** - uma espécie de manifestação de desobediência das forças militares, um tipo peculiar de golpe de Estado.
