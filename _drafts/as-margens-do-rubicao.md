@@ -23,9 +23,11 @@ Eram essas as opções de César naquela manhã. O Senado havia coberto a aposta
 
 ***
 
-Hoje, Bolsonaro encontra-se à margem do seu Rubicão. 
+Hoje, Bolsonaro encontra-se à margem do seu Rubicão. Como César, se vê fustigado (não somente a si, mas sua família e próximos) por uma enormidade de acusações de improbidade, corrupção e mesmo crimes comuns. Mas, ao contrário de César, que era em boa parte vítima das intrigas de um rival, as acusações possuem um sólido substrato fático na realidade.
 
-Vejamos a sua aprovação ano de 2021:
+Sua única esperança é navegar pelas acusações comprando, a preço cada vez mais caro, apoio do Centrão - o bloco de partidos fisiológicos do Congresso que vive de alugar seu apoio a quem pagar mais. Mas, como César, só poderia continuar fazendo isso ganhando as eleições. Sem poder, sem toma-lá-dá-cá, sem apoio. Ao contrário de César, não é o simples fato de estar ausente de Roma que o impede de fazê-lo, mas 
+
+Vejamos, [segundo agregador de pesquisas do Jota](https://www.jota.info/aprovacao-jair-bolsonaro "https://www.jota.info/aprovacao-jair-bolsonaro"), a evolução de sua taxa reprovação (vermelho) no ano de 2021:
 
 ![](/uploads/imagem_2021-08-11_020135.png)
 
