@@ -23,12 +23,28 @@ Eram essas as opções de César naquela manhã. O Senado havia coberto a aposta
 
 ***
 
-Hoje, Bolsonaro encontra-se à margem do seu Rubicão. Como César, se vê fustigado (não somente a si, mas sua família e próximos) por uma enormidade de acusações de improbidade, corrupção e mesmo crimes comuns. Mas, ao contrário de César, que era em boa parte vítima das intrigas de um rival, as acusações possuem um sólido substrato fático na realidade.
+Hoje, com o perdão da comparação, Bolsonaro também encontra-se à margem do seu Rubicão. Ele vai lançar os dados? E, se lançar, o que vai acontecer? Para responder estas perguntas precisamos investigar, um pouco, qual é a provável estratégia dos jogadores envolvidos. Vamos a cada um.
 
-Sua única esperança é navegar pelas acusações comprando, a preço cada vez mais caro, apoio do Centrão - o bloco de partidos fisiológicos do Congresso que vive de alugar seu apoio a quem pagar mais. Mas, como César, só poderia continuar fazendo isso ganhando as eleições. Sem poder, sem toma-lá-dá-cá, sem apoio. Ao contrário de César, não é o simples fato de estar ausente de Roma que o impede de fazê-lo, mas 
+## Bolsonaro
+
+Como César, Bolsonaro se vê fustigado (não somente a si, mas sua família e próximos) por uma enormidade de acusações de improbidade, corrupção e mesmo crimes comuns. Mas, ao contrário de César, que era em boa parte vítima das intrigas de um rival, as acusações possuem um sólido substrato fático na realidade.
+
+Sua única esperança é navegar pelas acusações comprando, a preço cada vez mais caro, apoio do Centrão - o bloco de partidos fisiológicos do Congresso que vive de alugar seu apoio a quem pagar mais. Mas, como César, só poderia continuar fazendo isso ganhando as eleições. Sem poder, sem toma-lá-dá-cá, sem apoio. Ao contrário de César, não é o simples fato de estar ausente de Roma que o impede de fazê-lo, mas sua meteórica desaprovação, que insiste em disparar.
 
 Vejamos, [segundo agregador de pesquisas do Jota](https://www.jota.info/aprovacao-jair-bolsonaro "https://www.jota.info/aprovacao-jair-bolsonaro"), a evolução de sua taxa reprovação (vermelho) no ano de 2021:
 
 ![](/uploads/imagem_2021-08-11_020135.png)
 
-teste
+Depois de um - em boa parte inexplicável - otimismo do eleitor em 2018 não há mais como entregar ao eleitor de 2022 um Bolsonaro como o da eleição passada. O _novelty value_ que muito o beneficiou (fruto, em boa parte, do desconhecimento do brasileiro do seu próprio sistema político, pois muitos realmente achavam que Bolsonaro era um "_outsider_", que estava de fato chegando de fora, que jamais havia pisado no parlamento, sendo algum tipo de recém-egresso de uma exitosa carreira militar que se findava) já não existe mais.  
+
+Os escândalos envolvendo sua família dificilmente podem ser ignorados, e mancham o discurso de anticorrupção que muito o beneficiou. 
+
+O fracasso de seu gabinete como condutor de políticas públicas na pandemia é destaque não só aqui, mas nos noticiários mundiais. Se antes a "gripezinha" era apenas matéria de chacota e memes, hoje ela ceifou a vida de pais, mães e irmãos dos mesmos seguidores que antes repassavam essas piadas com a doença.
+
+Sua total imersão no toma-lá-dá-cá do "centrão" - de onde é, de fato, _alumni_ de 30 anos - prejudica o entusiasmo antipolítico ou lavajatista mais vulgar com o qual ele se aliou (ou, mais precisamente, sentou no banco de carona) a partir de 2013. Os apoiadores que acreditavam na sua imagem de "outsider" ou nêmesis da "velha política" hoje. 
+
+Seu suporte intelectual, o _olavismo_, em vez do idealizado grupo de fidalgos, poliglotas, polímatas e homens da renascença que prometiam ser, se mostrou nada mais do que uma choldra descalça, inculta e apenas semialfabetizada. Mesmo suas inacreditáveis promessas de "liberalismo econômico" já não possuem credibilidade perante o mercado. 
+
+O que sobra é o seu grupo de apoiadores ideológicos, fanatizados, incondicionais. Mas, mesmo esse grupo, que antes se acreditava um monolito irredutível estimado em cerca de 30% do eleitor, dá sinais de a cada golpe trincar e desgastar um pouco mais, hoje estando em torno dos 25%.
+
+Dificilmente 
