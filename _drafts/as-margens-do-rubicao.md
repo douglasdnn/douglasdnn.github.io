@@ -41,10 +41,18 @@ Os escândalos envolvendo sua família dificilmente podem ser ignorados, e manch
 
 O fracasso de seu gabinete como condutor de políticas públicas na pandemia é destaque não só aqui, mas nos noticiários mundiais. Se antes a "gripezinha" era apenas matéria de chacota e memes, hoje ela ceifou a vida de pais, mães e irmãos dos mesmos seguidores que antes repassavam essas piadas com a doença.
 
-Sua total imersão no toma-lá-dá-cá do "centrão" - de onde é, de fato, _alumni_ de 30 anos - prejudica o entusiasmo antipolítico ou lavajatista mais vulgar com o qual ele se aliou (ou, mais precisamente, sentou no banco de carona) a partir de 2013. Os apoiadores que acreditavam na sua imagem de "outsider" ou nêmesis da "velha política" hoje. 
+Sua total imersão no toma-lá-dá-cá do "centrão" - de onde é, de fato, _alumni_ de 30 anos - prejudica o entusiasmo antipolítico ou lavajatista mais vulgar com o qual ele se aliou (ou, mais precisamente, sentou no banco de carona) a partir de 2013. Os apoiadores que acreditavam na sua imagem de "outsider" ou nêmesis da "velha política" hoje já abandonaram essa crença. 
 
-Seu suporte intelectual, o _olavismo_, em vez do idealizado grupo de fidalgos, poliglotas, polímatas e homens da renascença que prometiam ser, se mostrou nada mais do que uma choldra descalça, inculta e apenas semialfabetizada. Mesmo suas inacreditáveis promessas de "liberalismo econômico" já não possuem credibilidade perante o mercado. 
+Seu suporte intelectual, o _olavismo_, em vez do idealizado grupo de fidalgos, poliglotas, polímatas e homens da renascença que prometiam ser, se mostrou nada mais do que uma choldra descalça, inculta e apenas semialfabetizada. 
+
+Mesmo suas inacreditáveis promessas de "liberalismo econômico" já não possuem credibilidade perante o mercado. 
+
+Ou seja, parcelas da população que se aproximaram dele motivados por motivos colaterais - antipolítica, liberalismo econômico, etc, ou já está nos 25% de aprovação, ou provavelmente não será enganada novamente pelo mesmo motivo.
 
 O que sobra é o seu grupo de apoiadores ideológicos, fanatizados, incondicionais. Mas, mesmo esse grupo, que antes se acreditava um monolito irredutível estimado em cerca de 30% do eleitor, dá sinais de a cada golpe trincar e desgastar um pouco mais, hoje estando em torno dos 25%.
 
-Dificilmente 
+De outro flanco, a receptividade de uma candidatura de Lula, renascida das cinzas, parece se consolidar cada vez mais. [Hoje, a diferença percentual entre os dois passa os 25%](https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml "https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml").
+
+![](/uploads/imagem_2021-08-11_145446.png)
+
+Dificilmente esse número, portanto, AUMENTARÁ a tempo de reverter a desvantagem 
