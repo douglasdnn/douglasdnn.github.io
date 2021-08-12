@@ -7,7 +7,7 @@ tags: ''
 image: "/uploads/rubicao-tamanho-original.png"
 
 ---
-_Ao que tudo indica, Bolsonaro está considerando seriamente cruzar o proverbial Rubicão. E agora, o que vai acontecer? Neste artigo, tento elaborar um possível cenário._
+_Ao que tudo indica, Bolsonaro está considerando seriamente cruzar o proverbial Rubicão - pelo menos é o que faz questão de sinalizar. E agora, o que vai acontecer? Neste artigo, tento elaborar um possível cenário._
 
 Na alvorada do dia 10 de janeiro de 49 A.C. Júlio César, então à frente da 13º Legião romana, parou por um último minuto às margens do Rio Rubicão. Provavelmente, analisou as difíceis opções que possuía.
 
@@ -29,7 +29,7 @@ Hoje, com o perdão da comparação, Bolsonaro também se encontra à margem do 
 
 Como César, Bolsonaro se vê fustigado (não somente a si, mas sua família e próximos) por uma enormidade de acusações de improbidade, corrupção e mesmo crimes comuns. Mas, ao contrário de César, que era em boa parte vítima das intrigas de um rival, as acusações possuem um sólido substrato fático na realidade - situação que se agrava com cada dia de trabalho da CPI da pandemia ou cada novo inquérito aberto pelo STF.
 
-Sua única esperança é navegar pelas acusações comprando, a preço cada vez mais caro, apoio do Centrão - o bloco de partidos fisiológicos do Congresso que vive de alugar seu apoio a quem pagar mais. Enquanto seus bolsos tiverem recursos - ou melhor, o orçamento público comportar - a segurança de não ver andar os pedidos de impeachment, recordes na história, lhe é concedida. 
+Sua única esperança é navegar pelas acusações comprando, a preço cada vez mais caro, apoio do Centrão - o bloco de partidos fisiológicos do Congresso que vive de alugar seu apoio a quem pagar mais. Enquanto seus bolsos tiverem recursos - ou melhor, o orçamento público comportar - a segurança de não ver andar os pedidos de impeachment, recordes na história, lhe é concedida.
 
 Mas, como César, só poderia continuar fazendo isso ganhando as eleições. Sem poder, sem orçamento, sem toma-lá-dá-cá, sem apoio, sem imunidade. Ao contrário de César, não é o simples fato de estar ausente de Roma que o impede de fazê-lo, mas sua meteórica desaprovação, que insiste em disparar.
 
