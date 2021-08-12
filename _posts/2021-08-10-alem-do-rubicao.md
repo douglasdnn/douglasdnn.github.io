@@ -43,7 +43,7 @@ Os escândalos envolvendo sua família dificilmente podem ser ignorados, e manch
 
 Sua total imersão no toma-lá-dá-cá do "centrão" - de onde é, de fato, _alumni_ de 30 anos - prejudica o entusiasmo antipolítico ou lavajatista mais vulgar com o qual ele se aliou (ou, mais precisamente, sentou no banco de carona) a partir de 2013. Os apoiadores que acreditavam na sua imagem de "outsider" ou nêmesis da "velha política" hoje já abandonaram essa crença. Seu suporte intelectual, o _olavismo_, em vez do idealizado grupo de fidalgos, poliglotas, polímatas e homens da renascença que prometiam ser, se mostrou nada mais do que uma choldra descalça, inculta e apenas semialfabetizada de maltrapilhos intelectuais e moleques imberbes. Mesmo suas inacreditáveis promessas de "liberalismo econômico" já não possuem credibilidade perante o incrivelmente crédulo mercado.
 
-Ou seja, parcelas da população que se aproximaram dele motivados por motivos colaterais - antipolítica, liberalismo econômico, etc, ou já está nos 25% de aprovação, ou provavelmente não será enganada novamente pelo mesmo motivo.
+Ou seja, parcelas da população que se aproximaram dele motivados por motivos colaterais - antipolítica, liberalismo econômico, etc - ou já está nos 25% de aprovação, ou provavelmente não será enganada novamente pelo mesmo motivo.
 
 O que sobra é o seu grupo de apoiadores ideológicos, fanatizados, incondicionais. Mas, mesmo esse grupo, que antes se acreditava um monolito irredutível estimado em cerca de 30% do eleitor, dá sinais de a cada golpe trincar e desgastar um pouco mais, hoje estando em torno dos 25%.
 
