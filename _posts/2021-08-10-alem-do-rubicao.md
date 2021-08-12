@@ -67,7 +67,7 @@ Em resumo, um golpe é uma péssima ideia. Entretanto, _a ameaça de golpe_ não
 
 A ameaça de golpe de Estado (ou _autogolpe_, na tradição hispânica) é um tema que, pela sua dramaticidade, ocupa os noticiários, as mentes e o discurso público de toda a sociedade - do Parlamento à roda de bar. Enquanto as pautas estiverem focadas nas espetaculares manobras de algo que pode ou não ser um golpe, deixam de lado assuntos menores, tais como denúncias de participação de toda a família presidencial em crimes, ameaças de progresso dos pedidos de impeachment ou o dobrar de joelhos cada vez maior ao fisiologismo. Ganha-se tempo e espaço de manobra para que a saída destes incômodos - sérios e maiores - possam ser negociada em paz, longe das rodas de conversa, e que o preço dessa negociação não seja tão questionado.
 
-A concretização do _putsch_ é, nestes termos, um último e remoto recurso, destinado à hipótese desta saída não ser possível. Perante a possibilidade de perder não só o acesso à máquina que permite negociar a impunidade sua e de seus familiares, realmente, em uma jogada desesperada, o golpe pode ser convocado. Neste evento, começa o turno de outro jogador, em uma posição bem mais confortável.
+A concretização do _putsch_ é, nestes termos, um último e remoto recurso, destinado à hipótese desta saída negociada não ser possível. Perante a possibilidade de perder não só o acesso à máquina que permite negociar a impunidade sua e de seus familiares, mas as prerrogativas legais de foro, realmente, em uma jogada desesperada, o golpe pode ser convocado. Neste evento, começa o turno de outro jogador, em uma posição bem mais confortável.
 
 ## Os Militares
 
