@@ -27,9 +27,11 @@ Hoje, com o perdão da comparação, Bolsonaro também se encontra à margem do 
 
 ## Bolsonaro
 
-Como César, Bolsonaro se vê fustigado (não somente a si, mas sua família e próximos) por uma enormidade de acusações de improbidade, corrupção e mesmo crimes comuns. Mas, ao contrário de César, que era em boa parte vítima das intrigas de um rival, as acusações possuem um sólido substrato fático na realidade.
+Como César, Bolsonaro se vê fustigado (não somente a si, mas sua família e próximos) por uma enormidade de acusações de improbidade, corrupção e mesmo crimes comuns. Mas, ao contrário de César, que era em boa parte vítima das intrigas de um rival, as acusações possuem um sólido substrato fático na realidade - situação que se agrava com cada dia de trabalho da CPI da pandemia ou cada novo inquérito aberto pelo STF.
 
-Sua única esperança é navegar pelas acusações comprando, a preço cada vez mais caro, apoio do Centrão - o bloco de partidos fisiológicos do Congresso que vive de alugar seu apoio a quem pagar mais. Mas, como César, só poderia continuar fazendo isso ganhando as eleições. Sem poder, sem toma-lá-dá-cá, sem apoio. Ao contrário de César, não é o simples fato de estar ausente de Roma que o impede de fazê-lo, mas sua meteórica desaprovação, que insiste em disparar.
+Sua única esperança é navegar pelas acusações comprando, a preço cada vez mais caro, apoio do Centrão - o bloco de partidos fisiológicos do Congresso que vive de alugar seu apoio a quem pagar mais. Enquanto seus bolsos tiverem recursos - ou melhor, o orçamento público comportar - a segurança de não ver andar os pedidos de impeachment, recordes na história, lhe é concedida. 
+
+Mas, como César, só poderia continuar fazendo isso ganhando as eleições. Sem poder, sem orçamento, sem toma-lá-dá-cá, sem apoio, sem imunidade. Ao contrário de César, não é o simples fato de estar ausente de Roma que o impede de fazê-lo, mas sua meteórica desaprovação, que insiste em disparar.
 
 Vejamos, [segundo agregador de pesquisas do Jota](https://www.jota.info/aprovacao-jair-bolsonaro "https://www.jota.info/aprovacao-jair-bolsonaro"), a evolução de sua taxa reprovação (vermelho) no ano de 2021:
 
