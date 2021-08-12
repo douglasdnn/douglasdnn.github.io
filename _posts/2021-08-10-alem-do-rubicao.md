@@ -45,7 +45,7 @@ Ou seja, parcelas da população que se aproximaram dele motivados por motivos c
 
 O que sobra é o seu grupo de apoiadores ideológicos, fanatizados, incondicionais. Mas, mesmo esse grupo, que antes se acreditava um monolito irredutível estimado em cerca de 30% do eleitor, dá sinais de a cada golpe trincar e desgastar um pouco mais, hoje estando em torno dos 25%.
 
-De outro flanco, a receptividade de uma candidatura de Lula, renascida das cinzas, parece se consolidar cada vez mais. [Hoje, a diferença percentual entre os dois passa os 25%](https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml "https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml").
+De outro flanco, a receptividade de uma candidatura de Lula, renascida das cinzas, e mesmo com o enorme peso do antipetismo, parece se consolidar cada vez mais. [Hoje, a diferença percentual entre os dois passa os 25%](https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml "https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml").
 
 ![](/uploads/imagem_2021-08-11_145446.png)
 
