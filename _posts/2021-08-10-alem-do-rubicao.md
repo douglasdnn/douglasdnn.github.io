@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-10 01:07:03 +0000
+date: 2021-08-10T01:07:03.000+00:00
 title: Além do Rubicão
 categories: política
 tags: ''
@@ -111,4 +111,4 @@ Mourão decidiu sequer comparecer ao evento.
 
 Se a intenção foi fazer um jogo duplo, foi uma jogada genial. As culpas e responsabilidades foram compartimentalizadas, e as Forças Armadas, afinal, _só cumpriram ordens_. Esse padrão, se se repetir, pode levar a um progressivo esgotamento de Bolsonaro, não configurar desobediência, manter as Forças Armadas na posição de um fiador cada vez mais essencial - o que justifica cobrar um preço alto - e, ainda assim, garantir um papel de colaborador ou coadjuvante de uma "terceira via", por meio de membros que parecem ser a voz da razão, com toda a gratidão da população correspondente a esta providencial demonstração de súbito comportamento democrático quando tudo depender deles. Um bode expiatório é o melhor removedor de manchas que há.
 
-O que é certo é que dificilmente, muito dificilmente, os militares concordariam em, de fato, participar de um golpe que já se inicia como uma tragédia de apoio popular. Seria jogar no lixo todo o imenso ganho de posição que obtiveram no último governo, em uma - justíssima e necessária, aliás - vingança por castração aplicada pela sociedade.
+O que é certo é que dificilmente, muito dificilmente, os militares concordariam em, de fato, participar de um golpe que já se inicia como uma tragédia de apoio popular. Seria jogar no lixo todo o imenso ganho de posição que obtiveram no último governo, em uma - justíssima e necessária, aliás - vingança por castração aplicada pela sociedade. As Forças Armadas, apesar de proibida a sindicalização, possuem, um dos sindicatos _de fato_ mais coesos do Brasil, e é improvável que as diferenças de opinião entre generais sejam demonstração honesta de baderna.
