@@ -59,7 +59,7 @@ A entrada de um novo competidor de peso no jogo também dificilmente resultaria 
 
 Aqui entramos no espinhoso assunto do _golpe militar_.
 
-Em 1964, a sociedade 
+Em 1964 - data do nosso último, por enquanto, golpe de Estado - a sociedade, [embora não apoiasse esmagadoramente os militares, como pregam revisionistas](https://brasil.elpais.com/brasil/2019/04/07/opinion/1554640987_633381.html "https://brasil.elpais.com/brasil/2019/04/07/opinion/1554640987_633381.html"), ao menos participou de movimentos de rua de ampla participação popular, como 
 
 ## Os Militares
 
