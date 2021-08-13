@@ -5,7 +5,6 @@ title: Contato
 categories: contato
 tags: ''
 image: ''
-published: false
 
 ---
 Esta é a página de contato
