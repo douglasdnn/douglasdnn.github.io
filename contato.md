@@ -1,10 +1,19 @@
 ---
-layout: page
+layout: post
+date: 2021-08-13 02:09:19 +0000
 title: Contato
+categories: ''
+tags: ''
+image: ''
 permalink: "/contato/"
 
 ---
-**Artigos completos publicados em periódicos**
+**Contato**
 
-DONIN, Douglas Oliveira. **A Guerra contra a ciência de Bolsonaro: estilhaçando o mito da Janela de Overton.** COMCIÊNCIA (UNICAMP), v.226, p.1 - , 2021. Disponível em [https://www.comciencia.br/a-guerra-contra-a-ciencia-de-bolsonaro-estilhacando-o-mito-da-janela-de-overton/](https://www.comciencia.br/a-guerra-contra-a-ciencia-de-bolsonaro-estilhacando-o-mito-da-janela-de-overton/ "https://www.comciencia.br/a-guerra-contra-a-ciencia-de-bolsonaro-estilhacando-o-mito-da-janela-de-overton/")
+E-mail: douglasdnn@gmail.com
 
+Fone (Whatsapp): 51 99335 2255
+
+Telegram: douglasdnn
+
+Facebook: [https://www.facebook.com/douglas.oliveira.donin](https://www.facebook.com/douglas.oliveira.donin "https://www.facebook.com/douglas.oliveira.donin")
