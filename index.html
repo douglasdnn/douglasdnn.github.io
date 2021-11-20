@@ -34,9 +34,10 @@ layout: default
     </div>
 </header>
 
-
 <main class="content" role="main">
-                                 
+    <div class="cf frame">
+      {% for post in paginator.posts %}
+
 Douglas Oliveira Donin é Advogado em Porto Alegre-RS e pesquisador na área de Direito, Tecnologia e Economia Comportamental.
 
 # Formação:
@@ -47,9 +48,12 @@ Mestre em Direito Civil e Empresarial (2020), Especialista em Direito Internacio
 
 Inscrito na ordem dos Advogados do Brasil (2007).
 
-Além da advocacia, trabalha com desenvolvimento de sistemas em Python, Javascript (Node, React), PHP, Java e R, com foco em análise de dados.                             
-
-
-
-
-</main>
+Além da advocacia, trabalha com desenvolvimento de sistemas em Python, Javascript (Node, React), PHP, Java e R, com foco em análise de dados.  
+        
+        {% for post in paginator.posts %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+@@ -54,19 +56,7 @@ <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.base
+      {% endfor %}
+    </div>
