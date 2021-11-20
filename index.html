@@ -15,8 +15,6 @@ layout: default
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
-      <a href={{ "/sobre/" | prepend: site.baseurl }}>Sobre</a>
-        &nbsp;&nbsp;·&nbsp;&nbsp;
        {% for social in site.social %}
         {% if social.url %}
             <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
@@ -41,7 +39,7 @@ layout: default
                          
 <section class="post-content">
           <a name="topofpage"></a>
-          <p>Douglas Oliveira Donin é Advogado em Porto Alegre-RS e pesquisador na área de Direito, Tecnologia e Economia Comportamental.</p>
+          <p>Douglas Oliveira Donin é Advogado em Porto Alegre-RS, Mestre em Direito e pesquisador na área de Direito, Tecnologia, Democracia e Economia Comportamental.</p>
 
 <h1 id="formação">Formação:</h1>
 
