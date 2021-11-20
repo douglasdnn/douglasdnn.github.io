@@ -6,6 +6,8 @@ permalink: "/papers/"
 ---
 **Artigos completos publicados em periódicos**
 
+DONIN, Douglas Oliveira. **O Diabo nas Engrenagens: mecanismos do comportamento perverso autogenético na era da informação.** COMCIÊNCIA (UNICAMP), v.231, p.1 - , 2021. Disponível em [https://www.comciencia.br/o-diabo-nas-engrenagens-mecanismos-do-comportamento-perverso-autogenetico-na-era-da-informacao/](https://www.comciencia.br/o-diabo-nas-engrenagens-mecanismos-do-comportamento-perverso-autogenetico-na-era-da-informacao/ "https://www.comciencia.br/o-diabo-nas-engrenagens-mecanismos-do-comportamento-perverso-autogenetico-na-era-da-informacao/")
+
 DONIN, Douglas Oliveira. **A Guerra contra a ciência de Bolsonaro: estilhaçando o mito da Janela de Overton.** COMCIÊNCIA (UNICAMP), v.226, p.1 - , 2021. Disponível em [https://www.comciencia.br/a-guerra-contra-a-ciencia-de-bolsonaro-estilhacando-o-mito-da-janela-de-overton/](https://www.comciencia.br/a-guerra-contra-a-ciencia-de-bolsonaro-estilhacando-o-mito-da-janela-de-overton/ "https://www.comciencia.br/a-guerra-contra-a-ciencia-de-bolsonaro-estilhacando-o-mito-da-janela-de-overton/")
 
 DONIN, Douglas Oliveira. **A comunicação de conflito presidencial: da doutrina militar de John Boyd à experiência de desinformação de Putin.** COMCIÊNCIA (UNICAMP), v.219, p.1 - , 2020. Disponível em [http://www.comciencia.br/a-comunicacao-de-conflito-presidencial-em-analise-da-doutrina-militar-de-john-boyd-a-experiencia-de-desinformacao-de-putin/](http://www.comciencia.br/a-comunicacao-de-conflito-presidencial-em-analise-da-doutrina-militar-de-john-boyd-a-experiencia-de-desinformacao-de-putin/)
