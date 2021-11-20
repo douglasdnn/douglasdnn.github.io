@@ -37,7 +37,9 @@ layout: default
 
 <main class="content" role="main">
     <div class="cf frame">
-      {% for post in paginator.posts %}
+      
+                         artigo
+                         {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
@@ -54,19 +56,7 @@ layout: default
       {% endfor %}
     </div>
 
-    <nav class="pagination" role="navigation">
-      {% if paginator.next_page %}
-        <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
-      {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>Newer posts &rarr;</a>
-        {% else %}
-          <a class="older-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.previous_page }}>Newer posts &rarr;</a>
-        {% endif %}
-      {% endif %}
-    </nav>
+
 
 
 
