@@ -4,8 +4,6 @@ title: Douglas Donin
 permalink: "/sobre/"
 
 ---
-Pesquisador na área de Direito, Democracia, Tecnologia e Economia Comportamental.
-
 # Formação:
 
 Mestre em Direito Civil e Empresarial (2020), Especialista em Direito Internacional e Direito da Integração (2011) e Graduado em Ciências Jurídicas e Sociais (2006) pela Universidade Federal do Rio Grande do Sul, onde também cursou graduação em Ciências Econômicas (2012) e Jornalismo (2007).
